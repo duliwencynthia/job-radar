@@ -1,0 +1,61 @@
+# Public-safe candidate profile used for matching. No phone, address, or email here;
+# this file lives in a public repo.
+name: Liwen (Cynthia) Du
+summary: >
+  PhD student in Computer Science at NC State (Aug 2024 - present; MCS 2023). Research on
+  human-LLM collaboration: built Plato, an LLM-based collaborative agent for Overcooked with a
+  context-aware politeness framework (Brown-Levinson, Spencer-Oatey), end-to-end human-subject
+  studies (Wizard-of-Oz baselines, counterbalancing, behavioral + survey analysis). Also NLP /
+  ML for cyber threat classification (RoBERTa fine-tuning, SMOTE, random projection), empirical
+  software engineering (refactoring and migration, interviews with engineers), medical dialogue
+  generation (knowledge graphs, LSTM, BERT). Industry: back-end SWE intern (Node.js/Express,
+  MongoDB, Django, AWS). Projects: Java Spring + React full-stack app, Ruby on Rails open source.
+education_level: PhD
+seeking: Summer 2027 internship (research or engineering), plus select full-time roles
+
+# keyword -> weight. Title matches count 3x, description matches 1x.
+keywords:
+  research: 6
+  researcher: 6
+  "research scientist": 8
+  "research engineer": 8
+  "applied scientist": 7
+  phd: 8
+  "human-ai": 8
+  "human-computer": 8
+  hci: 8
+  "human factors": 5
+  "user research": 3
+  llm: 7
+  "large language": 7
+  "language model": 7
+  agent: 6
+  agentic: 6
+  "multi-agent": 7
+  nlp: 7
+  "natural language": 7
+  conversational: 6
+  dialogue: 6
+  "machine learning": 5
+  "ml ": 4
+  "artificial intelligence": 5
+  "ai ": 4
+  genai: 5
+  "generative ai": 5
+  alignment: 5
+  "responsible ai": 5
+  safety: 3
+  evaluation: 3
+  "reinforcement learning": 3
+  "software engineer": 4
+  "software development": 3
+  backend: 3
+  "back-end": 3
+  "full stack": 3
+  "full-stack": 3
+  python: 2
+  pytorch: 2
+  "node.js": 1
+  react: 1
+  "data science": 2
+  "security": 1

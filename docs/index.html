@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Radar · Liwen Du</title>
+<meta name="description" content="Summer 2027 internships and full-time roles ranked for Liwen (Cynthia) Du, refreshed daily by an agent.">
+<style>
+:root{
+  --bg:#f7f7f5;--surface:#fff;--ink:#1b1c1e;--muted:#63666d;--line:#e3e3df;
+  --accent:#2f5bd3;--accent-soft:#e8eefc;--good:#1f7a4d;--good-soft:#e3f3ea;--mid:#9a6b00;--mid-soft:#fbf1dc;--low:#8a8d93;--low-soft:#efefed;
+  --radius:10px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#141517;--surface:#1c1d20;--ink:#ececec;--muted:#9b9ea5;--line:#2c2e33;
+  --accent:#7ea0ff;--accent-soft:#1f2940;--good:#5fd39a;--good-soft:#16301f;--mid:#f0c060;--mid-soft:#352a12;--low:#8a8d93;--low-soft:#26272b;
+}}
+:root[data-theme="dark"]{
+  --bg:#141517;--surface:#1c1d20;--ink:#ececec;--muted:#9b9ea5;--line:#2c2e33;
+  --accent:#7ea0ff;--accent-soft:#1f2940;--good:#5fd39a;--good-soft:#16301f;--mid:#f0c060;--mid-soft:#352a12;--low:#8a8d93;--low-soft:#26272b;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,sans-serif}
+.wrap{max-width:980px;margin:0 auto;padding:28px 16px 64px}
+header h1{font-size:26px;margin:0 0 4px;letter-spacing:-.01em}
+header p{margin:0;color:var(--muted)}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:10px 14px;min-width:120px}
+.stat b{display:block;font-size:22px}
+.stat span{color:var(--muted);font-size:13px}
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0;display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--line);margin-bottom:14px}
+input[type=search],select{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
+input[type=search]{flex:1 1 220px;min-width:0}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surface)}
+.seg button{font:inherit;border:0;background:none;color:var(--muted);padding:8px 12px;cursor:pointer}
+.seg button[aria-pressed=true]{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.list{display:grid;gap:10px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;display:grid;grid-template-columns:52px 1fr;gap:14px}
+.card.hidden-job{opacity:.45}
+.score{width:52px;height:52px;border-radius:10px;display:grid;place-items:center;font-weight:700;font-size:18px}
+.s-hi{background:var(--good-soft);color:var(--good)}.s-mid{background:var(--mid-soft);color:var(--mid)}.s-lo{background:var(--low-soft);color:var(--low)}
+.title{font-weight:600;font-size:16px;margin:0}
+.meta{color:var(--muted);font-size:13px;margin:2px 0 6px;display:flex;flex-wrap:wrap;gap:4px 12px}
+.reason{margin:0 0 8px}
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.tag{font-size:12px;padding:2px 8px;border-radius:99px;background:var(--low-soft);color:var(--muted)}
+.tag.new{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+.actions a,.actions button{font:inherit;font-size:13px;border:1px solid var(--line);background:none;color:var(--ink);padding:5px 10px;border-radius:7px;cursor:pointer;text-decoration:none}
+.actions a.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.actions button[aria-pressed=true]{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+.empty{color:var(--muted);text-align:center;padding:40px 0}
+footer{margin-top:28px;color:var(--muted);font-size:13px}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;background:var(--low-soft);padding:1px 5px;border-radius:5px}
+@media (max-width:560px){.card{grid-template-columns:1fr}.score{width:auto;height:auto;padding:4px 10px;justify-self:start;font-size:15px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Job Radar</h1>
+    <p>Summer 2027 internships and selected full-time roles, ranked for Liwen (Cynthia) Du · <span id="updated">loading…</span></p>
+  </header>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search company, title, location…" aria-label="Search">
+    <div class="seg" role="group" aria-label="Type" data-key="type">
+      <button data-v="all" aria-pressed="true">All</button><button data-v="internship" aria-pressed="false">Intern</button><button data-v="fulltime" aria-pressed="false">Full-time</button>
+    </div>
+    <div class="seg" role="group" aria-label="Focus" data-key="focus">
+      <button data-v="all" aria-pressed="true">Any</button><button data-v="research" aria-pressed="false">Research</button><button data-v="engineering" aria-pressed="false">Engineering</button>
+    </div>
+    <select id="view" aria-label="View">
+      <option value="active">Hide dismissed</option><option value="saved">Saved only</option><option value="new">New this week</option><option value="all">Show everything</option>
+    </select>
+    <select id="sort" aria-label="Sort">
+      <option value="score">Best match</option><option value="posted">Newest</option><option value="company">Company A–Z</option>
+    </select>
+  </div>
+
+  <div class="list" id="list"></div>
+
+  <footer>
+    Refreshed daily by Agent 1 (GitHub Actions). Sources: SimplifyJobs listings plus Greenhouse, Ashby and Lever boards.
+    Scores come from Claude when available, otherwise keyword matching. To prepare an application, copy a job's ID and run
+    <code>./apply prepare &lt;id&gt;</code> locally (Agent 2). Saved and dismissed marks stay in this browser only.
+  </footer>
+</div>
+
+<script>
+const state = {type:"all", focus:"all", q:"", view:"active", sort:"score"};
+let jobs = [];
+const store = {
+  get(k){ try { return JSON.parse(localStorage.getItem(k) || "{}"); } catch { return {}; } },
+  set(k,v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+};
+let marks = store.get("jr-marks");   // id -> "saved" | "hidden"
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const weekAgo = new Date(Date.now() - 7*864e5).toISOString().slice(0,10);
+
+function render(){
+  const q = state.q.toLowerCase();
+  let rows = jobs.filter(j =>
+    (state.type === "all" || j.type === state.type) &&
+    (state.focus === "all" || j.focus === state.focus) &&
+    (!q || [j.company, j.title, j.locations.join(" "), j.reason].join(" ").toLowerCase().includes(q)) &&
+    (state.view === "all" ? true :
+     state.view === "saved" ? marks[j.id] === "saved" :
+     state.view === "new" ? j.first_seen >= weekAgo && marks[j.id] !== "hidden" :
+     marks[j.id] !== "hidden"));
+  const by = {score:(a,b)=>b.score-a.score, posted:(a,b)=>(b.posted||"").localeCompare(a.posted||""), company:(a,b)=>a.company.localeCompare(b.company)};
+  rows.sort(by[state.sort]);
+  const list = document.getElementById("list");
+  if (!rows.length){ list.innerHTML = '<div class="empty">No jobs match these filters.</div>'; return; }
+  list.innerHTML = rows.map(j => {
+    const cls = j.score >= 70 ? "s-hi" : j.score >= 45 ? "s-mid" : "s-lo";
+    const m = marks[j.id];
+    return `<article class="card ${m==="hidden"?"hidden-job":""}">
+      <div class="score ${cls}" title="Match score (${esc(j.ranked_by)})">${j.score}</div>
+      <div>
+        <p class="title">${esc(j.title)}</p>
+        <div class="meta"><strong>${esc(j.company)}</strong><span>${esc(j.locations.slice(0,3).join(" · ") || "Location n/a")}</span>${j.posted?`<span>Posted ${esc(j.posted)}</span>`:""}</div>
+        <p class="reason">${esc(j.reason)}</p>
+        <div class="tags">
+          ${j.first_seen >= weekAgo ? '<span class="tag new">New</span>' : ""}
+          <span class="tag">${j.type === "internship" ? "Internship" : "Full-time"}</span>
+          <span class="tag">${esc(j.focus)}</span>
+          ${(j.degrees||[]).map(d=>`<span class="tag">${esc(d)}</span>`).join("")}
+          ${j.sponsorship && j.sponsorship !== "Other" ? `<span class="tag">${esc(j.sponsorship)}</span>` : ""}
+        </div>
+        <div class="actions">
+          <a class="primary" href="${esc(j.url)}" target="_blank" rel="noopener">Open posting</a>
+          <button data-copy="${esc(j.id)}">Copy ID</button>
+          <button data-mark="saved" data-id="${esc(j.id)}" aria-pressed="${m==="saved"}">${m==="saved"?"Saved":"Save"}</button>
+          <button data-mark="hidden" data-id="${esc(j.id)}" aria-pressed="${m==="hidden"}">${m==="hidden"?"Dismissed":"Dismiss"}</button>
+        </div>
+      </div>
+    </article>`;
+  }).join("");
+}
+
+document.querySelectorAll(".seg").forEach(seg => seg.addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  seg.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  state[seg.dataset.key] = b.dataset.v; render();
+}));
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
+document.getElementById("view").addEventListener("change", e => { state.view = e.target.value; render(); });
+document.getElementById("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
+document.getElementById("list").addEventListener("click", e => {
+  const c = e.target.closest("[data-copy]");
+  if (c){ const cmd = c.dataset.copy; navigator.clipboard?.writeText(cmd).then(()=>{ c.textContent="Copied"; setTimeout(()=>c.textContent="Copy ID",1200); }); return; }
+  const mk = e.target.closest("[data-mark]");
+  if (mk){ const id = mk.dataset.id, v = mk.dataset.mark; marks[id] = marks[id] === v ? undefined : v; if(!marks[id]) delete marks[id]; store.set("jr-marks", marks); render(); }
+});
+
+fetch("jobs.json", {cache:"no-store"}).then(r => r.json()).then(d => {
+  jobs = d.jobs;
+  document.getElementById("updated").textContent = "updated " + new Date(d.generated_at).toLocaleString();
+  const fresh = jobs.filter(j => j.first_seen >= weekAgo).length;
+  const strong = jobs.filter(j => j.score >= 70).length;
+  document.getElementById("stats").innerHTML = [
+    [d.counts.internship, "internships"], [d.counts.fulltime, "full-time"], [strong, "strong matches (70+)"], [fresh, "new this week"]
+  ].map(([n,l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
+  render();
+}).catch(() => { document.getElementById("list").innerHTML = '<div class="empty">Could not load jobs.json.</div>'; });
+</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+# Agent 1 (Job Finder) configuration. Edit freely; the GitHub Action re-reads it each run.
+
+# What to look for
+terms: ["Summer 2027"]          # internship terms to keep from Simplify listings
+include_fulltime: true          # also collect new-grad / full-time roles
+fulltime_max_age_days: 45       # ignore full-time postings older than this
+
+# Simplify categories worth keeping (Hardware / Product / Quant are dropped)
+categories:
+  - Software
+  - Software Engineering
+  - AI/ML/Data
+  - Data Science, AI & Machine Learning
+
+# Drop postings that say U.S. citizenship is required (set false if that doesn't apply to you)
+exclude_citizenship_required: true
+
+# Titles containing any of these are dropped
+exclude_title_patterns:
+  - "sophomore only"
+  - "freshman"
+  - "first[- ]year"
+  - "high school"
+  - "\\bsenior\\b"
+  - "\\bstaff\\b"
+  - "principal"
+  - "(winter|fall|spring|autumn) 20[0-9][0-9]"
+  - "summer 2026"
+  - "manager"
+  - "director"
+  - "\\blead\\b"
+
+# Company career boards polled directly (good for research labs that Simplify may miss).
+# Only titles that look like intern / fellow / residency / PhD / new-grad roles are kept.
+boards:
+  greenhouse: [anthropic, databricks, scaleai, figma, airbnb, stripe, pinterest, robinhood]
+  ashby: [openai, cohere, perplexity, notion, ramp]
+  lever: [palantir, mistral]
+
+# Claude re-ranking (only runs when ANTHROPIC_API_KEY is set; otherwise keyword scoring is used)
+llm:
+  model: claude-opus-5
+  rerank_top_n: 120             # how many keyword-ranked jobs Claude re-scores each run
+  batch_size: 40
+
+max_jobs_on_page: 400
