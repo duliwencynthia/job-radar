@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-26T14:58+00:00",
+ "generated_at": "2026-09-27T15:40+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 260,
-  "fulltime": 140
+  "internship": 261,
+  "fulltime": 139
  },
  "source_errors": [],
  "jobs": [
@@ -112,29 +112,6 @@
    ],
    "sponsorship": "Other",
    "posted": "2026-08-18",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 41,
-   "reason": "Keyword match: research scientist, phd, research, ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-75a66528-c17",
-   "company": "ByteDance",
-   "title": "Research Scientist Graduate - Seed AI Foundation Model Infrastructure - PhD",
-   "url": "https://jobs.bytedance.com/en/position/7673264681083898165/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-13",
    "description": "",
    "source": "simplify",
    "focus": "research",
@@ -1239,52 +1216,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-0f5bb908-9ac",
-   "company": "ByteDance",
-   "title": "Research Engineer Graduate - Seed Infra",
-   "url": "https://jobs.bytedance.com/en/position/7673256063231854901/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-13",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 27,
-   "reason": "Keyword match: research engineer, research. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-71404970-dab",
-   "company": "ByteDance",
-   "title": "Research Scientist Graduate - Foundation Model-Speech-Interaction & Learning",
-   "url": "https://jobs.bytedance.com/en/position/7671032227920431413/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-12",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 27,
-   "reason": "Keyword match: research scientist, research. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-50940dc5-4b2",
    "company": "ByteDance",
    "title": "Research Scientist Intern - Multimedia Streaming",
@@ -1556,29 +1487,6 @@
    ],
    "sponsorship": "Other",
    "posted": "2026-08-19",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 26,
-   "reason": "Keyword match: phd, machine learning. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-7a4476c8-f02",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - E-Commerce Governance - PhD",
-   "url": "https://lifeattiktok.com/search/7672928557537954053",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-12",
    "description": "",
    "source": "simplify",
    "focus": "research",
@@ -2049,25 +1957,25 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-scaleai-4730836005",
+   "id": "gh-scaleai-4730862005",
    "company": "Scale AI",
    "title": "Software Engineer - New Grad",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
    "locations": [
-    "San Francisco, CA"
+    "London, UK"
    ],
    "type": "fulltime",
    "category": "",
    "degrees": [],
    "sponsorship": "",
-   "posted": "2026-09-04",
+   "posted": "2026-09-14",
    "description": "At Scale, our mission is to develop reliable AI systems for the world's most important decisions. For 10 years, Scale has provided the high-quality data and full-stack technologies that power the world's leading models, and has helped enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. Every industry is moving AI to the center of operations, but there is still no clear bluepri",
    "source": "greenhouse",
    "focus": "engineering",
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-09-26"
+   "first_seen": "2026-09-27"
   },
   {
    "id": "s-5b4117d9-4f3",
@@ -2369,29 +2277,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-b3b345f1-09d",
-   "company": "TikTok",
-   "title": "Large Language Model Post-training Engineer Graduate - Research & Product",
-   "url": "https://lifeattiktok.com/search/7670285949976201477",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-12",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 22,
-   "reason": "Keyword match: large language, language model, research.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-14e4b536-776",
    "company": "ByteDance",
    "title": "Research Intern - AI Compute Efficiency & Scheduling",
@@ -2632,12 +2517,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-databricks-8482086002",
+   "id": "gh-databricks-8482037002",
    "company": "Databricks",
    "title": "Systems PhD - Software Engineer ",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002",
    "locations": [
-    "Bellevue, Washington; Seattle, Washington"
+    "Mountain View, California; San Francisco, California"
    ],
    "type": "fulltime",
    "category": "",
@@ -2650,7 +2535,7 @@
    "score": 21,
    "reason": "Keyword match: phd, agent, generative ai, ai.",
    "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
+   "first_seen": "2026-09-27"
   },
   {
    "id": "s-a0b422cd-dc7",
@@ -2860,29 +2745,6 @@
    "focus": "research",
    "score": 20,
    "reason": "Keyword match: research engineer, research.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-8f0f4a4f-19f",
-   "company": "ByteDance",
-   "title": "Research Scientist Graduate - Seed AI Foundation Model Infrastructure",
-   "url": "https://jobs.bytedance.com/en/position/7673268418623293749/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-13",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 20,
-   "reason": "Keyword match: research scientist, research, ai.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
   },
@@ -4485,29 +4347,6 @@
     "Seattle, WA"
    ],
    "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-12",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 16,
-   "reason": "Keyword match: machine learning. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-51d49505-290",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - E-Commerce Governance",
-   "url": "https://lifeattiktok.com/search/7672928557539002629",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
    "category": "AI/ML/Data",
    "degrees": [
     "PhD"
@@ -7475,6 +7314,29 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "s-99d4157b-10c",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Graduate - Creation Platform",
+   "url": "https://lifeattiktok.com/search/7673669198965278981",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-14",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-27"
+  },
+  {
    "id": "s-5c3d16dc-fd9",
    "company": "TikTok",
    "title": "Data Science Intern - Advertisement Team",
@@ -7483,29 +7345,6 @@
     "San Jose, CA"
    ],
    "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-13",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: data science. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-fd2da7af-12c",
-   "company": "TikTok",
-   "title": "Data Science Graduate - Advertisement Team",
-   "url": "https://lifeattiktok.com/search/7673232905797880069",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
    "category": "AI/ML/Data",
    "degrees": [
     "PhD"
@@ -8454,31 +8293,6 @@
    "description": "",
    "source": "simplify",
    "focus": "research",
-   "score": 10,
-   "reason": "Broad match on role type. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-e8e4de39-fe7",
-   "company": "General Motors",
-   "title": "Summer Intern - Performance Analysis",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985",
-   "locations": [
-    "Concord, NC"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-14",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
    "score": 10,
    "reason": "Broad match on role type. PhD listed as eligible.",
    "ranked_by": "keywords",
@@ -9681,6 +9495,206 @@
    "reason": "Broad match on role type. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-26"
+  },
+  {
+   "id": "s-92c6183d-d85",
+   "company": "Noblis",
+   "title": "Data Analyst",
+   "url": "https://careers.noblis.org/jobs/27693?icims=1",
+   "locations": [
+    "McLean, VA"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD",
+    "Associate's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-20",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-27"
+  },
+  {
+   "id": "s-3affcaac-d7f",
+   "company": "NVIDIA",
+   "title": "Deep Learning Computer Architecture Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-19",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-27"
+  },
+  {
+   "id": "s-14a90f50-6be",
+   "company": "DRW",
+   "title": "Software Developer",
+   "url": "https://job-boards.greenhouse.io/drweng/jobs/8007851",
+   "locations": [
+    "London, UK"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-19",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-27"
+  },
+  {
+   "id": "s-8e68fbca-ccd",
+   "company": "Fannie Mae",
+   "title": "Analytics Associate - Analytics-Test",
+   "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999715055932",
+   "locations": [
+    "Washington, DC",
+    "Plano, TX"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-18",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-27"
+  },
+  {
+   "id": "s-f43a357d-967",
+   "company": "Pennsylvania State University",
+   "title": "Artificial Intelligence / Machine Learning Verification and Validation Engineer - Information Science Division - All-Domain Analytics and Signatures Office",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Artificial-Intelligence---Machine-Learning-Verification-and-Validation-Engineer_REQ_0000080734-1",
+   "locations": [
+    "State College, PA",
+    "Reston, VA"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-17",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Keyword match: machine learning, artificial intelligence.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-27"
+  },
+  {
+   "id": "s-443c0a68-63c",
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+   "url": "https://higher.gs.com/roles/171535?type=students",
+   "locations": [
+    "NYC"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "MBA",
+    "PhD",
+    "JD",
+    "MD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-15",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-27"
+  },
+  {
+   "id": "s-0316d9b0-4ab",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Intelligent Systems Development Engineer - Intelligent Combat Platforms Group",
+   "url": "https://careers.jhuapl.edu/jobs/58080?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-14",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-27"
+  },
+  {
+   "id": "s-33f1e0dc-965",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Computer Scientist New Grad - Tactical System Prototyping and Deployment",
+   "url": "https://careers.jhuapl.edu/jobs/59416?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-14",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-27"
   }
  ]
 }
