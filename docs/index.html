@@ -44,6 +44,9 @@ input[type=search]{flex:1 1 220px;min-width:0}
 .reason{margin:0 0 8px}
 .tags{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
 .tag{font-size:12px;padding:2px 8px;border-radius:99px;background:var(--low-soft);color:var(--muted)}
+.tag.applied{background:var(--good-soft);color:var(--good);font-weight:600}
+.tag.skipped{background:var(--low-soft);color:var(--low);font-weight:600;text-decoration:line-through}
+.tag.progress{background:var(--mid-soft);color:var(--mid);font-weight:600}
 .tag.new{background:var(--accent-soft);color:var(--accent);font-weight:600}
 .actions{display:flex;gap:8px;flex-wrap:wrap}
 .actions a,.actions button{font:inherit;font-size:13px;border:1px solid var(--line);background:none;color:var(--ink);padding:5px 10px;border-radius:7px;cursor:pointer;text-decoration:none}
@@ -73,7 +76,7 @@ code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;ba
       <button data-v="all" aria-pressed="true">Any</button><button data-v="research" aria-pressed="false">Research</button><button data-v="engineering" aria-pressed="false">Engineering</button>
     </div>
     <select id="view" aria-label="View">
-      <option value="active">Hide dismissed</option><option value="saved">Saved only</option><option value="new">New this week</option><option value="all">Show everything</option>
+      <option value="active">To apply</option><option value="mine">My applications</option><option value="saved">Saved only</option><option value="new">New this week</option><option value="all">Show everything</option>
     </select>
     <select id="sort" aria-label="Sort">
       <option value="score">Best match</option><option value="posted">Newest</option><option value="company">Company A–Z</option>
@@ -85,7 +88,8 @@ code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;ba
   <footer>
     Refreshed daily by Agent 1 (GitHub Actions). Sources: SimplifyJobs listings plus Greenhouse, Ashby and Lever boards.
     Scores come from Claude when available, otherwise keyword matching. To prepare an application, copy a job's ID and run
-    <code>./apply prepare &lt;id&gt;</code> locally (Agent 2). Saved and dismissed marks stay in this browser only.
+    <code>./apply prepare &lt;id&gt;</code> locally (Agent 2). Saved and dismissed marks stay in this browser only. Application statuses are published encrypted and
+    appear only in a browser opened once with the private link from <code>./apply sync --link</code>.
   </footer>
 </div>
 
@@ -97,21 +101,49 @@ const store = {
   set(k,v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
 };
 let marks = store.get("jr-marks");   // id -> "saved" | "hidden"
+let apps = {};                        // id -> {status, company, title, url, updated}; decrypted from status.enc
+
+const b64 = s => Uint8Array.from(atob(s.replace(/-/g, "+").replace(/_/g, "/") + "===".slice((s.length + 3) % 4)), c => c.charCodeAt(0));
+async function loadStatus(){
+  let k = null;
+  const m = location.hash.match(/k=([A-Za-z0-9_-]+)/);
+  if (m) { k = m[1]; try { localStorage.setItem("jr-key", k); } catch {} history.replaceState(null, "", location.pathname + location.search); }
+  else { try { k = localStorage.getItem("jr-key"); } catch {} }
+  if (!k || !crypto.subtle) return false;
+  try {
+    const r = await fetch("status.enc", {cache: "no-store"});
+    if (!r.ok) return false;
+    const {iv, data} = await r.json();
+    const key = await crypto.subtle.importKey("raw", b64(k), "AES-GCM", false, ["decrypt"]);
+    const plain = await crypto.subtle.decrypt({name: "AES-GCM", iv: b64(iv)}, key, b64(data));
+    apps = JSON.parse(new TextDecoder().decode(plain)).apps || {};
+    return true;
+  } catch { return false; }
+}
+window.addEventListener("hashchange", () => { if (/k=/.test(location.hash)) location.reload(); });
+const STATUS = {submitted: ["applied", "Applied"], skipped: ["skipped", "Skipped"], in_progress: ["progress", "In progress"], prepared: ["progress", "Resume ready"]};
 
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const weekAgo = new Date(Date.now() - 7*864e5).toISOString().slice(0,10);
 
 function render(){
   const q = state.q.toLowerCase();
-  let rows = jobs.filter(j =>
+  const done = id => ["submitted", "skipped"].includes(apps[id]?.status);
+  let pool = jobs;
+  if (state.view === "mine") {
+    const inFeed = new Set(jobs.map(j => j.id));
+    pool = jobs.filter(j => apps[j.id]).concat(Object.entries(apps).filter(([id]) => !inFeed.has(id)).map(([id, a]) =>
+      ({id, company: a.company, title: a.title, url: a.url, locations: [], type: "", focus: "", score: 0, reason: "No longer in the job feed.", degrees: [], ranked_by: "", first_seen: ""})));
+  }
+  let rows = pool.filter(j =>
     (state.type === "all" || j.type === state.type) &&
     (state.focus === "all" || j.focus === state.focus) &&
     (!q || [j.company, j.title, j.locations.join(" "), j.reason].join(" ").toLowerCase().includes(q)) &&
-    (state.view === "all" ? true :
+    (state.view === "all" || state.view === "mine" ? true :
      state.view === "saved" ? marks[j.id] === "saved" :
      state.view === "new" ? j.first_seen >= weekAgo && marks[j.id] !== "hidden" :
-     marks[j.id] !== "hidden"));
-  const by = {score:(a,b)=>b.score-a.score, posted:(a,b)=>(b.posted||"").localeCompare(a.posted||""), company:(a,b)=>a.company.localeCompare(b.company)};
+     marks[j.id] !== "hidden" && !done(j.id)));
+  const by = {score:(a,b)=> state.view === "mine" ? (apps[b.id]?.updated||"").localeCompare(apps[a.id]?.updated||"") : b.score-a.score, posted:(a,b)=>(b.posted||"").localeCompare(a.posted||""), company:(a,b)=>a.company.localeCompare(b.company)};
   rows.sort(by[state.sort]);
   const list = document.getElementById("list");
   if (!rows.length){ list.innerHTML = '<div class="empty">No jobs match these filters.</div>'; return; }
@@ -119,15 +151,16 @@ function render(){
     const cls = j.score >= 70 ? "s-hi" : j.score >= 45 ? "s-mid" : "s-lo";
     const m = marks[j.id];
     return `<article class="card ${m==="hidden"?"hidden-job":""}">
-      <div class="score ${cls}" title="Match score (${esc(j.ranked_by)})">${j.score}</div>
+      <div class="score ${cls}" title="Match score (${esc(j.ranked_by)})">${j.score || "–"}</div>
       <div>
         <p class="title">${esc(j.title)}</p>
         <div class="meta"><strong>${esc(j.company)}</strong><span>${esc(j.locations.slice(0,3).join(" · ") || "Location n/a")}</span>${j.posted?`<span>Posted ${esc(j.posted)}</span>`:""}</div>
         <p class="reason">${esc(j.reason)}</p>
         <div class="tags">
-          ${j.first_seen >= weekAgo ? '<span class="tag new">New</span>' : ""}
-          <span class="tag">${j.type === "internship" ? "Internship" : "Full-time"}</span>
-          <span class="tag">${esc(j.focus)}</span>
+          ${apps[j.id] ? `<span class="tag ${STATUS[apps[j.id].status]?.[0] || ""}">${STATUS[apps[j.id].status]?.[1] || esc(apps[j.id].status)} · ${esc((apps[j.id].updated || "").slice(0, 10))}</span>` : ""}
+          ${j.first_seen && j.first_seen >= weekAgo && !apps[j.id] ? '<span class="tag new">New</span>' : ""}
+          ${j.type ? `<span class="tag">${j.type === "internship" ? "Internship" : "Full-time"}</span>` : ""}
+          ${j.focus ? `<span class="tag">${esc(j.focus)}</span>` : ""}
           ${(j.degrees||[]).map(d=>`<span class="tag">${esc(d)}</span>`).join("")}
           ${j.sponsorship && j.sponsorship !== "Other" ? `<span class="tag">${esc(j.sponsorship)}</span>` : ""}
         </div>
@@ -157,13 +190,15 @@ document.getElementById("list").addEventListener("click", e => {
   if (mk){ const id = mk.dataset.id, v = mk.dataset.mark; marks[id] = marks[id] === v ? undefined : v; if(!marks[id]) delete marks[id]; store.set("jr-marks", marks); render(); }
 });
 
-fetch("jobs.json", {cache:"no-store"}).then(r => r.json()).then(d => {
+Promise.all([fetch("jobs.json", {cache:"no-store"}).then(r => r.json()), loadStatus()]).then(([d, unlocked]) => {
   jobs = d.jobs;
+  const counts = Object.values(apps).reduce((c, a) => (c[a.status] = (c[a.status] || 0) + 1, c), {});
   document.getElementById("updated").textContent = "updated " + new Date(d.generated_at).toLocaleString();
   const fresh = jobs.filter(j => j.first_seen >= weekAgo).length;
   const strong = jobs.filter(j => j.score >= 70).length;
   document.getElementById("stats").innerHTML = [
-    [d.counts.internship, "internships"], [d.counts.fulltime, "full-time"], [strong, "strong matches (70+)"], [fresh, "new this week"]
+    [d.counts.internship, "internships"], [d.counts.fulltime, "full-time"], [strong, "strong matches (70+)"], [fresh, "new this week"],
+    ...(unlocked ? [[counts.submitted || 0, "applied"], [counts.skipped || 0, "skipped"]] : [])
   ].map(([n,l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
   render();
 }).catch(() => { document.getElementById("list").innerHTML = '<div class="empty">Could not load jobs.json.</div>'; });
