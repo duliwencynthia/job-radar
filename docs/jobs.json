@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-10T16:14+00:00",
+ "generated_at": "2026-10-11T16:39+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 280,
-  "fulltime": 120
+  "internship": 281,
+  "fulltime": 119
  },
  "source_errors": [],
  "jobs": [
@@ -862,30 +862,6 @@
    "first_seen": "2026-10-04"
   },
   {
-   "id": "s-ad7fc6cf-464",
-   "company": "Anduril",
-   "title": "Agentic AI Engineer - Automation",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219383007",
-   "locations": [
-    "Costa Mesa, CA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-26",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 29,
-   "reason": "Keyword match: agent, agentic, ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-40230ab3-ddc",
    "company": "Procter & Gamble",
    "title": "Data Science and Machine Learning PhD Intern",
@@ -907,31 +883,6 @@
    "reason": "Keyword match: phd, machine learning, data science. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-0b668c4d-84e",
-   "company": "NVIDIA",
-   "title": "PhD Research Intern - Cross-Disciplinary Vision Science",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499",
-   "locations": [
-    "Santa Clara, CA",
-    "Durham, NC",
-    "Westford, MA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-06",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 27,
-   "reason": "Keyword match: phd, research. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-07"
   },
   {
    "id": "s-865bf71e-5c8",
@@ -1525,30 +1476,6 @@
    "reason": "Keyword match: research, researcher, machine learning, ai.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-05"
-  },
-  {
-   "id": "s-8c97b8d5-94b",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "AI/ML Research Engineer",
-   "url": "https://careers.jhuapl.edu/jobs/59548?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-26",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 25,
-   "reason": "Keyword match: research engineer, research, ml.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-06"
   },
   {
    "id": "gh-scaleai-4660340005",
@@ -2152,27 +2079,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-scaleai-4730846005",
-   "company": "Scale AI",
-   "title": "Software Engineering Intern (Summer 2027) ",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-   "locations": [
-    "London, UK"
-   ],
-   "type": "internship",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2026-09-14",
-   "description": "At Scale, our mission is to develop reliable AI systems for the world's most important decisions. For 10 years, Scale has provided the high-quality data and full-stack technologies that power the world's leading models, and has helped enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. Scale's internship is not a side project. Interns own real, shipped work on the same roadmap",
-   "source": "greenhouse",
-   "focus": "engineering",
-   "score": 23,
-   "reason": "Keyword match: llm, research, agent, agentic.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-10"
-  },
-  {
    "id": "gh-scaleai-4730851005",
    "company": "Scale AI",
    "title": "Software Engineer - New Grad",
@@ -2192,6 +2098,27 @@
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-10"
+  },
+  {
+   "id": "gh-scaleai-4730845005",
+   "company": "Scale AI",
+   "title": "Software Engineering Intern (Summer 2027) ",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "type": "internship",
+   "category": "",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2026-09-04",
+   "description": "At Scale, our mission is to develop reliable AI systems for the world's most important decisions. For 10 years, Scale has provided the high-quality data and full-stack technologies that power the world's leading models, and has helped enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. Scale's internship is not a side project. Interns own real, shipped work on the same roadmap",
+   "source": "greenhouse",
+   "focus": "engineering",
+   "score": 23,
+   "reason": "Keyword match: llm, research, agent, agentic.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-11"
   },
   {
    "id": "s-5b4117d9-4f3",
@@ -3217,29 +3144,6 @@
    "focus": "research",
    "score": 20,
    "reason": "Keyword match: phd. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-7b378fc1-72f",
-   "company": "RTX",
-   "title": "Research Engineer 2",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Research-Engineer-II--Onsite-_01867098",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-27",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 20,
-   "reason": "Keyword match: research engineer, research.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
   },
@@ -4406,29 +4310,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "s-a251a7a4-2be",
-   "company": "General Motors",
-   "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-05",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 16,
-   "reason": "Keyword match: machine learning. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-06"
-  },
-  {
    "id": "s-be056302-3c1",
    "company": "Atoms",
    "title": "Machine Learning Engineer Intern",
@@ -5252,54 +5133,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-dc5c3700-b9b",
-   "company": "General Motors",
-   "title": "Summer Intern - Onboard Autonomy - Embodied AI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-09",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "s-91251409-4b3",
-   "company": "General Motors",
-   "title": "Data Scaling Intern - Data Scaling - Embodied AI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-09",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-10"
-  },
-  {
    "id": "s-1b619bab-8ca",
    "company": "General Motors",
    "title": "Seam Intern - Embodied AI",
@@ -6022,31 +5855,6 @@
    "focus": "engineering",
    "score": 15,
    "reason": "Keyword match: ml. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-e1ff445a-9da",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems",
-   "url": "https://careers.jhuapl.edu/jobs/59997?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "type": "internship",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-10",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
   },
@@ -7462,6 +7270,31 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "s-cc5558b2-1bd",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+   "url": "https://careers.jhuapl.edu/jobs/60432?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-10",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: data science. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-11"
+  },
+  {
    "id": "gh-anthropic-5447080008",
    "company": "Anthropic",
    "title": "Conceptual Reasoning Fellow",
@@ -7626,12 +7459,12 @@
    "first_seen": "2026-10-01"
   },
   {
-   "id": "gh-stripe-8194283",
+   "id": "gh-stripe-8194285",
    "company": "Stripe",
    "title": "PhD Data Scientist, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+   "url": "https://stripe.com/jobs/search?gh_jid=8194285",
    "locations": [
-    "New York, Seattle, South San Francisco HQ"
+    "Toronto"
    ],
    "type": "internship",
    "category": "",
@@ -7644,7 +7477,7 @@
    "score": 12,
    "reason": "Keyword match: phd, machine learning, data science.",
    "ranked_by": "keywords",
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-11"
   },
   {
    "id": "gh-pinterest-8138097",
@@ -9520,6 +9353,176 @@
    "reason": "Keyword match: ai, software engineer.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-26"
+  },
+  {
+   "id": "s-a27b01fe-9ba",
+   "company": "Waymo",
+   "title": "Intern - Multiple Teams",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-24",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-11"
+  },
+  {
+   "id": "s-772904d0-c68",
+   "company": "Ralliant",
+   "title": "Research and Development Co-op",
+   "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637",
+   "locations": [
+    "Fairport, NY"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-23",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 10,
+   "reason": "Keyword match: research.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-11"
+  },
+  {
+   "id": "s-c0f5bb29-73b",
+   "company": "Booz Allen",
+   "title": "Quantum Research Intern - Summer 2027",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129",
+   "locations": [
+    "Washington, DC"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-23",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 10,
+   "reason": "Keyword match: research.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-11"
+  },
+  {
+   "id": "s-97c16019-9fb",
+   "company": "Intel",
+   "title": "Foundry Cloud Services Developer",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203",
+   "locations": [
+    "Hillsboro, OR",
+    "Phoenix, AZ"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-22",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-11"
+  },
+  {
+   "id": "s-f42adf96-f24",
+   "company": "Waymo",
+   "title": "Learning-Based Behavior Intern",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8203191",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-18",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-11"
+  },
+  {
+   "id": "s-3fc82b32-e0d",
+   "company": "Tower Research Capital",
+   "title": "Software Developer Intern",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8212179",
+   "locations": [
+    "Montreal, QC, Canada"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-17",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-11"
+  },
+  {
+   "id": "s-0243fda8-ee4",
+   "company": "Noblis",
+   "title": "Software Developer - Multiple Levels - Cleared",
+   "url": "https://careers.noblis.org/jobs/27847?icims=1",
+   "locations": [
+    "Reston, VA"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-17",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-11"
   }
  ]
 }
