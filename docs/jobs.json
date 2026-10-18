@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T14:12+00:00",
+ "generated_at": "2026-10-18T14:34+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
   "internship": 292,
@@ -2382,25 +2382,25 @@
    "first_seen": "2026-10-17"
   },
   {
-   "id": "gh-scaleai-4730836005",
+   "id": "gh-scaleai-4730862005",
    "company": "Scale AI",
    "title": "Software Engineer - New Grad",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
    "locations": [
-    "San Francisco, CA"
+    "London, UK"
    ],
    "type": "fulltime",
    "category": "",
    "degrees": [],
    "sponsorship": "",
-   "posted": "2026-09-04",
+   "posted": "2026-09-14",
    "description": "At Scale, our mission is to develop reliable AI systems for the world's most important decisions. For 10 years, Scale has provided the high-quality data and full-stack technologies that power the world's leading models, and has helped enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. Every industry is moving AI to the center of operations, but there is still no clear bluepri",
    "source": "greenhouse",
    "focus": "engineering",
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-18"
   },
   {
    "id": "s-8d32ce9d-b2f",
@@ -5581,6 +5581,57 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "s-f9df073e-edd",
+   "company": "Leonardo",
+   "title": "Graduate Test Software Engineer",
+   "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Test-Software-Engineer_R0034203-1",
+   "locations": [
+    "Edinburgh, UK",
+    "Newcastle upon Tyne, UK"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-18",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 15,
+   "reason": "Keyword match: software engineer. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-18"
+  },
+  {
+   "id": "s-3c77f02f-792",
+   "company": "Leonardo",
+   "title": "Graduate Software Engineer",
+   "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Software-Engineer_R0033861",
+   "locations": [
+    "Edinburgh, UK"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-18",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 15,
+   "reason": "Keyword match: software engineer. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-18"
+  },
+  {
    "id": "s-ed9e210c-cd7",
    "company": "General Motors",
    "title": "Embodied AI Research Intern",
@@ -8330,30 +8381,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-8f9ee14e-f82",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Software Development Graduate - AI",
-   "url": "https://careers.jhuapl.edu/jobs/59691?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-03",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: ai, software development.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-7a58365b-0d7",
    "company": "Edison International",
    "title": "Data Analytics Intern - Data Science - Applied Math",
@@ -9508,27 +9535,6 @@
    "focus": "engineering",
    "score": 10,
    "reason": "Keyword match: human-computer, research, agent, ai.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-17"
-  },
-  {
-   "id": "s-ab1c9134-c40",
-   "company": "R1 RCM",
-   "title": "Software Engineer - ML Ops",
-   "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Software-Engineer---ML-Ops--R37-_R260000007542",
-   "locations": [
-    "United States"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [],
-   "sponsorship": "Other",
-   "posted": "2026-10-08",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 10,
-   "reason": "Keyword match: ml, software engineer.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-17"
   }
