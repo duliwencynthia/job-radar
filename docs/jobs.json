@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T14:34+00:00",
+ "generated_at": "2026-10-19T17:28+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
   "internship": 292,
@@ -27,30 +27,6 @@
    "reason": "Keyword match: research engineer, phd, applied scientist, large language.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-05"
-  },
-  {
-   "id": "s-517be45c-a43",
-   "company": "Autodesk",
-   "title": "PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374",
-   "locations": [
-    "Boston, MA",
-    "NYC"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-15",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 48,
-   "reason": "Keyword match: phd, research, researcher, agent. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-15"
   },
   {
    "id": "s-a72176df-193",
@@ -2495,6 +2471,29 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "s-e833887c-581",
+   "company": "Autodesk",
+   "title": "Research Intern - Context and Knowledge Systems for AI",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2",
+   "locations": [
+    "Remote in UK"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-19",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 22,
+   "reason": "Keyword match: research, ai. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-19"
+  },
+  {
    "id": "s-e7524d34-334",
    "company": "Field AI",
    "title": "Robotics Research Intern - Embodied AI",
@@ -2583,30 +2582,6 @@
    "reason": "Keyword match: research, ai. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-07"
-  },
-  {
-   "id": "s-96540543-955",
-   "company": "Autodesk",
-   "title": "Research Intern - Multimodal AI for Human Experience",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1",
-   "locations": [
-    "Boston, MA",
-    "NYC"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-05",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 22,
-   "reason": "Keyword match: research, ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-05"
   },
   {
    "id": "gh-pinterest-8244922",
@@ -4618,31 +4593,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-13b103af-8b5",
-   "company": "Akuna Capital University",
-   "title": "Software Engineer Intern - Python",
-   "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "type": "internship",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-07-13",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 17,
-   "reason": "Keyword match: software engineer, python. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "gh-scaleai-4613327005",
    "company": "Scale AI",
    "title": "Finance Fellow - Human Frontier Collective (UK)",
@@ -5224,31 +5174,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-d8b3f963-671",
-   "company": "OpenTable",
-   "title": "Applied Machine Learning Scientist 2",
-   "url": "https://job-boards.greenhouse.io/opentable/jobs/8769568002",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-04",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 16,
-   "reason": "Keyword match: machine learning. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-4b81bd00-4b9",
    "company": "TikTok",
    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
@@ -5579,6 +5504,29 @@
    "reason": "Keyword match: research, researcher, generative ai, alignment.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "s-6bd34346-4e1",
+   "company": "Conviva",
+   "title": "AI/ML Engineer",
+   "url": "https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-19",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 15,
+   "reason": "Keyword match: ml. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-19"
   },
   {
    "id": "s-f9df073e-edd",
@@ -7933,12 +7881,12 @@
    "first_seen": "2026-10-02"
   },
   {
-   "id": "gh-stripe-8194283",
+   "id": "gh-stripe-8194285",
    "company": "Stripe",
    "title": "PhD Data Scientist, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+   "url": "https://stripe.com/jobs/search?gh_jid=8194285",
    "locations": [
-    "New York, Seattle, South San Francisco HQ"
+    "Toronto"
    ],
    "type": "internship",
    "category": "",
@@ -7951,7 +7899,7 @@
    "score": 12,
    "reason": "Keyword match: phd, machine learning, data science.",
    "ranked_by": "keywords",
-   "first_seen": "2026-10-17"
+   "first_seen": "2026-10-19"
   },
   {
    "id": "gh-pinterest-8138097",
@@ -9088,6 +9036,54 @@
    "reason": "Keyword match: security. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "s-c35aada5-ad1",
+   "company": "Marvell",
+   "title": "AI Data Science Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-19",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Keyword match: ai, data science.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-19"
+  },
+  {
+   "id": "s-01715d82-9e8",
+   "company": "GM financial",
+   "title": "Portfolio Analytics Intern",
+   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-19",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-19"
   },
   {
    "id": "s-1962fda2-935",
