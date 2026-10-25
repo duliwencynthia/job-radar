@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-24T14:33+00:00",
+ "generated_at": "2026-10-25T14:57+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 294,
-  "fulltime": 106
+  "internship": 296,
+  "fulltime": 104
  },
  "source_errors": [],
  "jobs": [
@@ -27,29 +27,6 @@
    "reason": "Keyword match: research engineer, phd, applied scientist, large language.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-05"
-  },
-  {
-   "id": "s-a72176df-193",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "PhD Graduate - Artificial Intelligence and Machine Learning - Research Scientist",
-   "url": "https://careers.jhuapl.edu/jobs/60018?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-09",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 48,
-   "reason": "Keyword match: research scientist, phd, research, machine learning. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
   },
   {
    "id": "s-0774f31a-26b",
@@ -1364,31 +1341,6 @@
    "reason": "Keyword match: phd, research. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-13"
-  },
-  {
-   "id": "s-50d9fbb1-4c7",
-   "company": "Riverside Research",
-   "title": "Junior Research Scientist - Formal Methods",
-   "url": "https://careers-riversideresearch.icims.com/jobs/4381/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Lexington, MA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-17",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 27,
-   "reason": "Keyword match: research scientist, research. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-04"
   },
   {
    "id": "ab-ramp-b39ceb08-a0a",
@@ -4976,54 +4928,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-d677575f-478",
-   "company": "Shure",
-   "title": "Applied Research Science Intern",
-   "url": "https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Niles, IL"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-03",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 17,
-   "reason": "Keyword match: research. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-31a9d3a5-6ab",
-   "company": "Shure",
-   "title": "Audio Applied Research Science Intern",
-   "url": "https://careersus-shure.icims.com/jobs/4968/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Niles, IL"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-03",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 17,
-   "reason": "Keyword match: research. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-a35fbd54-2c0",
    "company": "ByteDance",
    "title": "Research Intern - AI-Native Databases",
@@ -5600,32 +5504,6 @@
    "focus": "engineering",
    "score": 16,
    "reason": "Keyword match: machine learning. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-f8b85cfe-722",
-   "company": "Noblis",
-   "title": "Artificial Intelligence Engineer",
-   "url": "https://careers.noblis.org/jobs/27812?icims=1",
-   "locations": [
-    "McLean, VA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD",
-    "Associate's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-10",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 16,
-   "reason": "Keyword match: artificial intelligence. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
   },
@@ -7013,56 +6891,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-4115edde-4ae",
-   "company": "Pennsylvania State University",
-   "title": "Software Engineer - Multiple Teams",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/R-D-Engineer--Software-Engineer_REQ_0000081569-2",
-   "locations": [
-    "Reston, VA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-10",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "s-2dcb71be-979",
-   "company": "Pennsylvania State University",
-   "title": "Software Engineer - Strategic Systems Operation Division",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer--Software-Engineer_REQ_0000081602-2",
-   "locations": [
-    "State College, PA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-10",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-fb049a47-cda",
    "company": "Capital One",
    "title": "AI Engineering Intern",
@@ -8396,31 +8224,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "s-632599d0-d99",
-   "company": "Liberty Mutual",
-   "title": "Data Science Co-op",
-   "url": "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Boston, MA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-06",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: data science. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-06"
-  },
-  {
    "id": "gh-databricks-8847738002",
    "company": "Databricks",
    "title": "Software Engineering Intern (2027 Start) - London",
@@ -9587,6 +9390,203 @@
    "reason": "Broad match on role type. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "s-cf7fc611-231",
+   "company": "Dentsu",
+   "title": "Analyst – Media Effectiveness",
+   "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Toronto/Analyst--Media-Effectiveness_R1132622",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-23",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "id": "s-22e0e398-2ef",
+   "company": "American Family Insurance Group",
+   "title": "Data Engineer Intern",
+   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675",
+   "locations": [
+    "Madison, WI"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-21",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "id": "s-3f1e39bd-ca4",
+   "company": "Xaira Therapeutics",
+   "title": "Robotics Systems & Simulation Engineer",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007",
+   "locations": [
+    "South SF"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-21",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "id": "s-4b1ef870-8db",
+   "company": "Skydio",
+   "title": "Wireless Hardware Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-20",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "id": "s-66380619-848",
+   "company": "NVIDIA",
+   "title": "Systems Software Intern - Aerial PHY",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-20",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "id": "s-c9cd9528-eef",
+   "company": "Keysight Technologies",
+   "title": "Quantum Physicist - Neutral Atom Platforms",
+   "url": "https://jobs.keysight.com/jobs/54857?icims=1",
+   "locations": [
+    "Loveland, CO",
+    "Colorado Springs, CO",
+    "Denver, CO"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-20",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "id": "s-c35aada5-ad1",
+   "company": "Marvell",
+   "title": "AI Data Science Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-19",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Keyword match: ai, data science.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "id": "s-01715d82-9e8",
+   "company": "GM financial",
+   "title": "Portfolio Analytics Intern",
+   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-19",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-25"
   }
  ]
 }
