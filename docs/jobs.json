@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-25T14:57+00:00",
+ "generated_at": "2026-10-26T17:23+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 296,
-  "fulltime": 104
+  "internship": 299,
+  "fulltime": 101
  },
  "source_errors": [],
  "jobs": [
@@ -1417,54 +1417,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-55fe963d-786",
-   "company": "Evolver",
-   "title": "Research Scientist - Autonomous Systems",
-   "url": "https://job-boards.greenhouse.io/evolver/jobs/4402412009",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-10",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 27,
-   "reason": "Keyword match: research scientist, research. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-1965a75d-b1e",
-   "company": "Evolver",
-   "title": "Research Scientist - Information Theory and Statistical Inference",
-   "url": "https://job-boards.greenhouse.io/evolver/jobs/4402424009",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-10",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 27,
-   "reason": "Keyword match: research scientist, research. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-e3dc5e7f-982",
    "company": "Google",
    "title": "Research Intern - PhD",
@@ -1795,31 +1747,6 @@
    "reason": "Keyword match: research engineer, research, machine learning.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-de6d9257-439",
-   "company": "NRG Energy",
-   "title": "Data Science Analyst - Agentic AI Developer",
-   "url": "https://careers.nrgenergy.com/nrg/job/Houston-Data-Science-Analyst-Agentic-AI-Developer-TX-77010/1441481900/?ats=successfactors",
-   "locations": [
-    "Houston, TX",
-    "Princeton, NJ"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-19",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 25,
-   "reason": "Keyword match: agent, agentic, ai, data science.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-20"
   },
   {
    "id": "s-91908e47-ddd",
@@ -2541,12 +2468,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-scaleai-4730846005",
+   "id": "gh-scaleai-4730834005",
    "company": "Scale AI",
    "title": "Software Engineering Intern (Summer 2027) ",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
    "locations": [
-    "London, UK"
+    "Doha, Qatar "
    ],
    "type": "internship",
    "category": "",
@@ -2559,28 +2486,28 @@
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-26"
   },
   {
-   "id": "gh-scaleai-4730836005",
+   "id": "gh-scaleai-4730862005",
    "company": "Scale AI",
    "title": "Software Engineer - New Grad",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
    "locations": [
-    "San Francisco, CA"
+    "London, UK"
    ],
    "type": "fulltime",
    "category": "",
    "degrees": [],
    "sponsorship": "",
-   "posted": "2026-09-04",
+   "posted": "2026-09-14",
    "description": "At Scale, our mission is to develop reliable AI systems for the world's most important decisions. For 10 years, Scale has provided the high-quality data and full-stack technologies that power the world's leading models, and has helped enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. Every industry is moving AI to the center of operations, but there is still no clear bluepri",
    "source": "greenhouse",
    "focus": "engineering",
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-10-24"
+   "first_seen": "2026-10-26"
   },
   {
    "id": "s-31ab487e-bda",
@@ -3253,12 +3180,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-databricks-8482086002",
+   "id": "gh-databricks-8482037002",
    "company": "Databricks",
    "title": "Systems PhD - Software Engineer ",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002",
    "locations": [
-    "Bellevue, Washington; Seattle, Washington"
+    "Mountain View, California; San Francisco, California"
    ],
    "type": "fulltime",
    "category": "",
@@ -3271,7 +3198,7 @@
    "score": 21,
    "reason": "Keyword match: phd, agent, generative ai, ai.",
    "ranked_by": "keywords",
-   "first_seen": "2026-10-23"
+   "first_seen": "2026-10-26"
   },
   {
    "id": "s-de4b6392-8af",
@@ -4101,31 +4028,6 @@
    "reason": "Keyword match: applied scientist. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-23"
-  },
-  {
-   "id": "s-85b4f67f-4cb",
-   "company": "iSoftStone",
-   "title": "Junior Full Stack Software Engineer",
-   "url": "https://jobs.jobvite.com/isoftstone/job/oB4MAfwL?nl=1&nl=1&fr=false",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-10",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 18,
-   "reason": "Keyword match: software engineer, full stack. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-20"
   },
   {
    "id": "s-1795d6df-fcc",
@@ -8780,29 +8682,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-fd8c8cd3-1a7",
-   "company": "The Home Depot",
-   "title": "Data Science Intern",
-   "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---PhD-Data-Science_Req191948",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-08-31",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: data science. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-27ec0955-4e9",
    "company": "Verkada",
    "title": "Backend Software Engineer Intern",
@@ -9365,6 +9244,32 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "s-0fc49c44-851",
+   "company": "Royal Bank of Canada",
+   "title": "Data Engineer Intern - Amplify 2027",
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198",
+   "locations": [
+    "Vancouver, BC, Canada"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD",
+    "Associate's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-26",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "s-b528e2b6-04c",
    "company": "Amazon",
    "title": "Systems Development Engineer Intern",
@@ -9587,6 +9492,112 @@
    "reason": "Broad match on role type. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-25"
+  },
+  {
+   "id": "s-d6b3c17b-06b",
+   "company": "Waymo",
+   "title": "Summer Intern - Multiple Teams",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8289816",
+   "locations": [
+    "SF",
+    "Mountain View, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-19",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "s-1962fda2-935",
+   "company": "Amazon",
+   "title": "Software Developer Intern",
+   "url": "https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom",
+   "locations": [
+    "London, UK",
+    "Edinburgh, UK",
+    "Bristol, UK",
+    "Cambridge, UK"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "MBA",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-16",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "s-13931c60-9e5",
+   "company": "GlobalFoundries",
+   "title": "Research Account Management & Field Application Engineering Support Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431",
+   "locations": [
+    "Essex Junction, VT"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-16",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 10,
+   "reason": "Keyword match: research.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "s-e1ba7862-cdb",
+   "company": "American Institutes for Research",
+   "title": "Data Scientist - Project Success and Innovation",
+   "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5454172008",
+   "locations": [
+    "Austin, TX",
+    "Remote in USA",
+    "Chicago, IL",
+    "Arlington County, Arlington, VA",
+    "Sacramento, CA",
+    "Chapel Hill, NC"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-16",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-26"
   }
  ]
 }
