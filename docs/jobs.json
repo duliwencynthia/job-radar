@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-28T17:10+00:00",
+ "generated_at": "2026-10-29T17:26+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 295,
-  "fulltime": 105
+  "internship": 299,
+  "fulltime": 101
  },
  "source_errors": [],
  "jobs": [
@@ -163,6 +163,29 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "s-e41b0830-6d4",
+   "company": "National Laboratory of the Rockies",
+   "title": "Postdoctoral Researcher - Agentic AI-Driven Computational Synthesis of PGM-free Fuel Cell Catalysts",
+   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Doctoral-Researcher----Agentic-AI-Driven-Computational-Synthesis-of-PGM-free-Fuel-Cell-Catalysts_R14572",
+   "locations": [
+    "Golden, CO"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-28",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 39,
+   "reason": "Keyword match: research, researcher, agent, agentic. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "s-1945c4fb-7c6",
    "company": "TikTok",
    "title": "Research Scientist New Grad - Conversational AI",
@@ -278,6 +301,27 @@
    "reason": "Keyword match: research scientist, research, machine learning, ai. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "gh-anthropic-5439169008",
+   "company": "Anthropic",
+   "title": "Anthropic Research Resident",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
+   "locations": [
+    "London, UK"
+   ],
+   "type": "fulltime",
+   "category": "",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2026-10-28",
+   "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role The Anthropic Residency is our paid, fixed-term research program, with placements lasting between six weeks and six months. We are looking for people who have led ambitious work in a variety of technical fields and want to transition to full-time ",
+   "source": "greenhouse",
+   "focus": "research",
+   "score": 37,
+   "reason": "Keyword match: phd, llm, large language, language model.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "s-0895d37b-42f",
@@ -634,29 +678,6 @@
    "reason": "Keyword match: research scientist, research, ai. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-4b1b1e85-54b",
-   "company": "Apple",
-   "title": "Generative AI Research Engineer - Siri Speech",
-   "url": "https://jobs.apple.com/en-us/details/200688766",
-   "locations": [
-    "Cambridge, UK"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-15",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 31,
-   "reason": "Keyword match: research engineer, research, generative ai, ai.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-15"
   },
   {
    "id": "ab-perplexity-b9e1ff15-d52",
@@ -1131,6 +1152,29 @@
    "reason": "Keyword match: phd, software engineer, data science. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-24"
+  },
+  {
+   "id": "s-76a80127-61c",
+   "company": "Riverlane",
+   "title": "PhD Research Intern",
+   "url": "https://www.riverlane.com/jobs?gh_jid=5009045101#vacancies",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-16",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 27,
+   "reason": "Keyword match: phd, research. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "s-9e2e7d36-c34",
@@ -2490,25 +2534,25 @@
    "first_seen": "2026-10-28"
   },
   {
-   "id": "gh-scaleai-4730862005",
+   "id": "gh-scaleai-4730836005",
    "company": "Scale AI",
    "title": "Software Engineer - New Grad",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
    "locations": [
-    "London, UK"
+    "San Francisco, CA"
    ],
    "type": "fulltime",
    "category": "",
    "degrees": [],
    "sponsorship": "",
-   "posted": "2026-09-14",
+   "posted": "2026-09-04",
    "description": "At Scale, our mission is to develop reliable AI systems for the world's most important decisions. For 10 years, Scale has provided the high-quality data and full-stack technologies that power the world's leading models, and has helped enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. Every industry is moving AI to the center of operations, but there is still no clear bluepri",
    "source": "greenhouse",
    "focus": "engineering",
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-10-26"
+   "first_seen": "2026-10-29"
   },
   {
    "id": "s-31ab487e-bda",
@@ -2810,33 +2854,6 @@
    "first_seen": "2026-10-01"
   },
   {
-   "id": "s-426d3a6b-300",
-   "company": "Aurora Innovation",
-   "title": "Behavior and Planning Intern - ML Research",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true",
-   "locations": [
-    "SF",
-    "Pittsburgh, PA",
-    "Mountain View, CA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-24",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 22,
-   "reason": "Keyword match: research, ml. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-27"
-  },
-  {
    "id": "gh-scaleai-4736426005",
    "company": "Scale AI",
    "title": "Software Engineer, Public Sector - New Grad",
@@ -3020,30 +3037,6 @@
    "reason": "Keyword match: agent, agentic, software engineer.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-da7b155a-c2c",
-   "company": "Manulife Financial",
-   "title": "Associate Applied AI Engineer - GenAI Systems",
-   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26091743-3",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-26",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 21,
-   "reason": "Keyword match: genai, ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-27"
   },
   {
    "id": "s-dfc6d5d9-fa4",
@@ -3278,6 +3271,27 @@
    "reason": "Keyword match: phd, agent, generative ai, ai.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "gh-figma-6238015004",
+   "company": "Figma",
+   "title": "PhD Intern, Security Engineer (2027)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004",
+   "locations": [
+    "San Francisco, CA • New York, NY"
+   ],
+   "type": "internship",
+   "category": "",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2026-10-28",
+   "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us! The mission of the Figma Security team is to help Figmates ship the most secure and safe product to our users. As a PhD ",
+   "source": "greenhouse",
+   "focus": "research",
+   "score": 20,
+   "reason": "Keyword match: phd, llm, research, ai.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "s-28d0195c-1d7",
@@ -3544,32 +3558,6 @@
    "reason": "Keyword match: phd. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-29"
-  },
-  {
-   "id": "s-efca454d-849",
-   "company": "Booz Allen",
-   "title": "AI and ML Engineer",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-and-ML-Engineer_R0250044",
-   "locations": [
-    "Chantilly, VA",
-    "McLean, VA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-21",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 20,
-   "reason": "Keyword match: ml, ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-03"
   },
   {
    "id": "s-a0b422cd-dc7",
@@ -3866,6 +3854,34 @@
    "reason": "Keyword match: llm, research.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "s-08f5ae2c-794",
+   "company": "Amazon",
+   "title": "Robotics Applied Scientist 2 Intern",
+   "url": "https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states",
+   "locations": [
+    "Seattle, WA",
+    "North Reading, MA",
+    "NYC",
+    "Bellevue, WA",
+    "Sunnyvale, CA",
+    "Westborough, MA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-28",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 18,
+   "reason": "Keyword match: applied scientist. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "s-31aa4212-623",
@@ -4272,6 +4288,31 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "s-935c3dc5-adb",
+   "company": "Qualcomm",
+   "title": "Deep Learning Research Intern - Interim Engineering Intern - Systems",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721828828",
+   "locations": [
+    "Markham, ON, Canada"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-28",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 17,
+   "reason": "Keyword match: research. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "s-a0647259-2f8",
    "company": "Assurant",
    "title": "AI and Data Science Intern",
@@ -4623,6 +4664,31 @@
    "reason": "Keyword match: research. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-10"
+  },
+  {
+   "id": "s-62bb0c27-4f3",
+   "company": "Riverlane",
+   "title": "Research Intern",
+   "url": "https://www.riverlane.com/jobs?gh_jid=5001380101#vacancies",
+   "locations": [
+    "Cambridge, UK"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-09",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 17,
+   "reason": "Keyword match: research. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "s-453db16f-11f",
@@ -5391,32 +5457,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-97071ed7-a90",
-   "company": "Amgen",
-   "title": "Machine Learning Engineer Intern",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
-   "locations": [
-    "Remote in USA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "MBA",
-    "PharmD",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-11",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 16,
-   "reason": "Keyword match: machine learning. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-66b1fe7b-a6c",
    "company": "Bedrock Robotics",
    "title": "Behavior Machine Learning Engineer Intern - World Models",
@@ -5771,27 +5811,79 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-a9b5d6ff-de5",
-   "company": "Samsung Research America",
-   "title": "Health AI Scholar - Digital Health Algorithms Team",
-   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
+   "id": "s-5617d404-c12",
+   "company": "Boston Scientific",
+   "title": "AI Solutions Engineering Intern",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
    "locations": [
-    "Mountain View, CA"
+    "Arden Hills, MN"
    ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
+   "type": "internship",
+   "category": "Software",
    "degrees": [
+    "Bachelor's",
+    "Master's",
     "PhD"
    ],
    "sponsorship": "Other",
-   "posted": "2026-10-27",
+   "posted": "2026-10-29",
    "description": "",
    "source": "simplify",
    "focus": "engineering",
    "score": 15,
    "reason": "Keyword match: ai. PhD listed as eligible.",
    "ranked_by": "keywords",
-   "first_seen": "2026-10-28"
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "s-27cab255-939",
+   "company": "Schonfeld",
+   "title": "AI Enablement Intern",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
+   "locations": [
+    "NYC"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-28",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 15,
+   "reason": "Keyword match: ai. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "s-b20248d4-861",
+   "company": "Priceline",
+   "title": "Junior Software Engineer - Front End",
+   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5885",
+   "locations": [
+    "NYC"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-28",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 15,
+   "reason": "Keyword match: software engineer. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "s-2ca476b1-e28",
@@ -6307,6 +6399,31 @@
    "reason": "Keyword match: ai. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-20"
+  },
+  {
+   "id": "s-faaf5b8b-6d6",
+   "company": "Riverlane",
+   "title": "Software Engineering Intern",
+   "url": "https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies",
+   "locations": [
+    "Cambridge, UK"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-09",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 15,
+   "reason": "Keyword match: software engineer. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "s-303c8256-045",
@@ -7492,30 +7609,6 @@
    "first_seen": "2026-10-03"
   },
   {
-   "id": "s-3475b425-729",
-   "company": "Waymo",
-   "title": "Perception Intern - Evaluation",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8248327",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-02",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 14,
-   "reason": "Keyword match: evaluation. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-03"
-  },
-  {
    "id": "s-0ce857da-f2c",
    "company": "GM financial",
    "title": "Software Development Engineer Intern",
@@ -7561,27 +7654,6 @@
    "reason": "Keyword match: applied scientist, machine learning.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
-  },
-  {
-   "id": "gh-airbnb-8154749",
-   "company": "Airbnb",
-   "title": "Early Career Software Engineer, Tech Foundations",
-   "url": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749",
-   "locations": [
-    "Sao Paulo - Brazil"
-   ],
-   "type": "fulltime",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2026-08-24",
-   "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: The Quality Engineering team helps Airbnb build high-quality software efficiently. We enable Airbnb engineers to build highly testable systems by building and using tools leveraging AI. We own and continuously",
-   "source": "greenhouse",
-   "focus": "engineering",
-   "score": 14,
-   "reason": "Keyword match: llm, agent, ai, software engineer.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-27"
   },
   {
    "id": "ab-notion-3fba1c39-c5c",
@@ -7675,6 +7747,30 @@
    "first_seen": "2026-10-20"
   },
   {
+   "id": "s-4082fdde-4f0",
+   "company": "Graphcore",
+   "title": "Software Engineer New Grad - AI Compute Libraries & Performance",
+   "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902321002",
+   "locations": [
+    "Bristol, UK"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-20",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 13,
+   "reason": "Keyword match: ai, software engineer.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "s-91d247d9-54b",
    "company": "Electronic Arts",
    "title": "AI/ML Software Engineer Co-op Intern",
@@ -7696,27 +7792,6 @@
    "reason": "Keyword match: ml, software engineer.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-24"
-  },
-  {
-   "id": "gh-anthropic-5452403008",
-   "company": "Anthropic",
-   "title": "Anthropic STEM Fellow",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452403008",
-   "locations": [
-    "Remote-Friendly, United States; San Francisco, CA"
-   ],
-   "type": "fulltime",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2026-10-14",
-   "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. Program Overview Some of our world's grand challenges, from resolving long-open problems in mathematics to designing medicines for neglected diseases, require deep expert judgment that today's AI still lacks. We're working toward an AI scientist, a system capabl",
-   "source": "greenhouse",
-   "focus": "research",
-   "score": 13,
-   "reason": "Keyword match: phd, research, researcher, machine learning.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-15"
   },
   {
    "id": "gh-databricks-8843577002",
@@ -8042,27 +8117,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "ab-notion-297b4ece-765",
-   "company": "Notion",
-   "title": "Software Engineer, Early Career",
-   "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
-   "locations": [
-    "San Francisco, California"
-   ],
-   "type": "fulltime",
-   "category": "Early Career",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2026-07-06",
-   "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next featu",
-   "source": "ashby",
-   "focus": "engineering",
-   "score": 13,
-   "reason": "Keyword match: research, agent, ai, software engineer.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-5ccdc3cc-187",
    "company": "Engramme",
    "title": "Part-Time AI Research Evaluator",
@@ -8105,30 +8159,6 @@
    "focus": "engineering",
    "score": 12,
    "reason": "Keyword match: data science. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "s-f0af7b08-421",
-   "company": "Amazon",
-   "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
-   "url": "https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
-   "locations": [
-    "Cupertino, CA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-22",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: ml, software development.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-24"
   },
@@ -8200,27 +8230,6 @@
    "reason": "Keyword match: data science. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-15"
-  },
-  {
-   "id": "gh-anthropic-5447080008",
-   "company": "Anthropic",
-   "title": "Conceptual Reasoning Fellow",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
-   "locations": [
-    "London, UK; Remote-Friendly, United States; San Francisco, CA"
-   ],
-   "type": "fulltime",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2026-10-09",
-   "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. Program Overview Many of the questions that will shape our future have no single checkable answer. Reasoning well about them, whether in law, policy, philosophy, economics, cognitive science, or AI safety itself, takes the kind of judgment experts spend years bu",
-   "source": "greenhouse",
-   "focus": "research",
-   "score": 12,
-   "reason": "Keyword match: phd, research, researcher, ai.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-10"
   },
   {
    "id": "s-88b1fed5-3a2",
@@ -8382,6 +8391,31 @@
    "reason": "Keyword match: software engineer, full stack.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-09"
+  },
+  {
+   "id": "s-c79fefe1-fbc",
+   "company": "General Dynamics Information Technology",
+   "title": "AI/ML Software Development and Engineering Intern",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
+   "locations": [
+    "Bossier City, LA"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "Associate's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-26",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: ml, software development.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "s-ffb0610a-df2",
@@ -9019,6 +9053,27 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "ab-notion-297b4ece-765",
+   "company": "Notion",
+   "title": "Software Engineer, Growth (Early Career)",
+   "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
+   "locations": [
+    "San Francisco, California"
+   ],
+   "type": "fulltime",
+   "category": "Early Career",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2026-07-06",
+   "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next featu",
+   "source": "ashby",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: research, agent, ai, software engineer.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-25"
+  },
+  {
    "id": "lv-palantir-3531977a-9b2",
    "company": "Palantir",
    "title": "Software Engineer, Internship",
@@ -9362,6 +9417,128 @@
    "first_seen": "2026-10-28"
   },
   {
+   "id": "s-f0720d7f-007",
+   "company": "Syngenta Group",
+   "title": "Data Scientist Intern",
+   "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-29",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "s-5d4a2e1b-038",
+   "company": "Intuitive Surgical",
+   "title": "Robotics Engineer Intern",
+   "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313717",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-28",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "s-f3c001a6-09c",
+   "company": "American Family Insurance Group",
+   "title": "Talent Analytics Intern",
+   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Talent-Analytics_R39669-2",
+   "locations": [
+    "Madison, WI"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-28",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "s-213cc68c-49e",
+   "company": "William Hill",
+   "title": "Junior Java Developer",
+   "url": "https://amswh.avature.net/careers/JobDetail/41813",
+   "locations": [
+    "Leeds, UK"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-28",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "s-af1c8d02-38a",
+   "company": "Motorola Solutions",
+   "title": "Software Engineer - Java / Python",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer---Java---Python_R69271",
+   "locations": [
+    "Chicago, IL",
+    "Schaumburg, IL"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-28",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Keyword match: software engineer, python.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "s-7e1845c8-085",
    "company": "Toyota Research Institute",
    "title": "Robotics Intern - Trustworthy Learning under Uncertainty",
@@ -9400,228 +9577,6 @@
    ],
    "sponsorship": "Other",
    "posted": "2026-10-27",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 10,
-   "reason": "Keyword match: ai, data science.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-27"
-  },
-  {
-   "id": "s-059f11e6-0de",
-   "company": "Nissan Global",
-   "title": "Research Application Intern",
-   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Research-Application-Intern---Summer-2027---Santa-Clara--CA_R00214271",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-27",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 10,
-   "reason": "Keyword match: research.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-28"
-  },
-  {
-   "id": "s-74737e11-799",
-   "company": "SambaNova Systems",
-   "title": "Compiler Engineer New Grad",
-   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004",
-   "locations": [
-    "Austin, TX",
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-27",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 10,
-   "reason": "Broad match on role type. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-28"
-  },
-  {
-   "id": "s-574ed495-74a",
-   "company": "SambaNova Systems",
-   "title": "Runtime Engineer New Grad",
-   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004",
-   "locations": [
-    "Austin, TX",
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-27",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 10,
-   "reason": "Broad match on role type. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-28"
-  },
-  {
-   "id": "s-0fc49c44-851",
-   "company": "Royal Bank of Canada",
-   "title": "Data Engineer Intern - Amplify 2027",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198",
-   "locations": [
-    "Vancouver, BC, Canada"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD",
-    "Associate's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-26",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 10,
-   "reason": "Broad match on role type. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "s-26adecaa-1b1",
-   "company": "Highmark Health",
-   "title": "Applied Gen AI/Data Scientist Graduate Intern",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007",
-   "locations": [
-    "New Mexico",
-    "Washington",
-    "Kansas",
-    "Pennsylvania",
-    "North Dakota",
-    "Oregon",
-    "Delaware",
-    "Iowa",
-    "California",
-    "Washington, DC",
-    "Vermont",
-    "Wyoming",
-    "Connecticut",
-    "Texas",
-    "Montana",
-    "Florida",
-    "New Hampshire",
-    "Nevada",
-    "South Carolina",
-    "South Dakota",
-    "Georgia",
-    "Arizona",
-    "Mississippi",
-    "Tennessee",
-    "Virginia",
-    "Arkansas",
-    "Minnesota",
-    "Colorado",
-    "Nebraska",
-    "Rhode Island",
-    "Utah",
-    "Kentucky",
-    "West Virginia",
-    "NYC",
-    "Maryland",
-    "Hawaii",
-    "Wisconsin",
-    "Maine",
-    "Massachusetts",
-    "North Carolina",
-    "Oklahoma",
-    "Missouri",
-    "Ohio",
-    "New Jersey",
-    "Indiana",
-    "Louisiana",
-    "Alaska",
-    "Michigan",
-    "Illinois",
-    "Alabama",
-    "Idaho"
-   ],
-   "type": "internship",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-26",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 10,
-   "reason": "Broad match on role type. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-27"
-  },
-  {
-   "id": "s-06117524-06d",
-   "company": "Toyota Research Institute",
-   "title": "Robotics Intern - World Foundation Models",
-   "url": "https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478/apply",
-   "locations": [
-    "Los Altos, CA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-26",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 10,
-   "reason": "Broad match on role type. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-27"
-  },
-  {
-   "id": "s-ab58c3d1-454",
-   "company": "onsemi",
-   "title": "AI & Data Science Intern",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-26",
    "description": "",
    "source": "simplify",
    "focus": "engineering",
