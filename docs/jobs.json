@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-02T20:47+00:00",
+ "generated_at": "2026-11-03T18:27+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 297,
-  "fulltime": 103
+  "internship": 300,
+  "fulltime": 100
  },
  "source_errors": [],
  "jobs": [
@@ -893,6 +893,30 @@
    "first_seen": "2026-10-24"
   },
   {
+   "id": "s-2f809092-b7f",
+   "company": "Microsoft",
+   "title": "Researcher Intern - Coreai",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+   "locations": [
+    "Redmond, WA",
+    "Mountain View, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-15",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 29,
+   "reason": "Keyword match: research, researcher, ai. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
+  },
+  {
    "id": "s-f1bd9787-bca",
    "company": "Argonne National Laboratory",
    "title": "Postdoctoral Researcher - AI for Earth System Sciences",
@@ -988,12 +1012,12 @@
    "first_seen": "2026-10-30"
   },
   {
-   "id": "gh-stripe-8328662",
+   "id": "gh-stripe-8328664",
    "company": "Stripe",
    "title": "PhD Machine Learning Engineer, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+   "url": "https://stripe.com/jobs/search?gh_jid=8328664",
    "locations": [
-    "San Francisco, New York City, Seattle"
+    "Toronto"
    ],
    "type": "internship",
    "category": "",
@@ -1006,7 +1030,7 @@
    "score": 28,
    "reason": "Keyword match: phd, large language, language model, research.",
    "ranked_by": "keywords",
-   "first_seen": "2026-10-30"
+   "first_seen": "2026-11-03"
   },
   {
    "id": "s-1f204319-dfd",
@@ -2558,25 +2582,25 @@
    "first_seen": "2026-11-02"
   },
   {
-   "id": "gh-scaleai-4730836005",
+   "id": "gh-scaleai-4730851005",
    "company": "Scale AI",
    "title": "Software Engineer - New Grad",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
    "locations": [
-    "San Francisco, CA"
+    "Doha, Qatar "
    ],
    "type": "fulltime",
    "category": "",
    "degrees": [],
    "sponsorship": "",
-   "posted": "2026-09-04",
+   "posted": "2026-09-14",
    "description": "At Scale, our mission is to develop reliable AI systems for the world's most important decisions. For 10 years, Scale has provided the high-quality data and full-stack technologies that power the world's leading models, and has helped enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. Every industry is moving AI to the center of operations, but there is still no clear bluepri",
    "source": "greenhouse",
    "focus": "engineering",
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-02"
+   "first_seen": "2026-11-03"
   },
   {
    "id": "s-31ab487e-bda",
@@ -3764,52 +3788,6 @@
    "first_seen": "2026-09-29"
   },
   {
-   "id": "s-a0b422cd-dc7",
-   "company": "ByteDance",
-   "title": "Software Engineer - AI Compute",
-   "url": "https://jobs.bytedance.com/en/position/7686733097398290693/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-18",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 20,
-   "reason": "Keyword match: ai, software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-a05af293-241",
-   "company": "ByteDance",
-   "title": "Graduate Software Engineer - AI Compute",
-   "url": "https://jobs.bytedance.com/en/position/7686732729746950405/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-18",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 20,
-   "reason": "Keyword match: ai, software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-3f32b0ed-b69",
    "company": "Waymo",
    "title": "Conflict Behavior Intern - MS/PhD",
@@ -4060,12 +4038,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-stripe-8333122",
+   "id": "gh-stripe-8333074",
    "company": "Stripe",
    "title": "Master's Machine Learning Engineer, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+   "url": "https://stripe.com/jobs/search?gh_jid=8333074",
    "locations": [
-    "Toronto"
+    "San Francisco, New York City, Seattle"
    ],
    "type": "internship",
    "category": "",
@@ -4078,7 +4056,7 @@
    "score": 18,
    "reason": "Keyword match: large language, language model, research, machine learning.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-01"
+   "first_seen": "2026-11-03"
   },
   {
    "id": "s-9a3695ac-1a3",
@@ -4535,6 +4513,31 @@
    "reason": "Keyword match: phd, research, researcher, machine learning.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "s-fb3a1722-d29",
+   "company": "Qualcomm",
+   "title": "Deep Learning Research Intern",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721913898",
+   "locations": [
+    "Markham, ON, Canada"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-02",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 17,
+   "reason": "Keyword match: research. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
   },
   {
    "id": "s-203557a8-567",
@@ -5377,6 +5380,101 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "s-0fafd493-8e5",
+   "company": "Mosaic",
+   "title": "Artificial Intelligence Co-op Intern",
+   "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420",
+   "locations": [
+    "Lithia, FL"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-03",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 16,
+   "reason": "Keyword match: artificial intelligence. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "s-ac5ec6b6-4cb",
+   "company": "Pacific Northwest National Laboratory",
+   "title": "NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference",
+   "url": "https://careers.pnnl.gov/jobs/12899?icims=1",
+   "locations": [
+    "Seattle, WA",
+    "Richland, WA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [],
+   "sponsorship": "Other",
+   "posted": "2026-11-02",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 16,
+   "reason": "Keyword match: phd, artificial intelligence.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "s-0a08202a-9ca",
+   "company": "Truveta",
+   "title": "Software Engineer - Data Fulfillment",
+   "url": "https://job-boards.greenhouse.io/truveta/jobs/6240727004",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-02",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 16,
+   "reason": "Keyword match: llm, software engineer.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "s-d24c7bcb-31c",
+   "company": "Applied Materials",
+   "title": "Computer Vision/Machine Learning/Deep Learning Algorithm Developer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2632865",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-02",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 16,
+   "reason": "Keyword match: machine learning. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
+  },
+  {
    "id": "s-6fc8c909-a18",
    "company": "Stripe",
    "title": "Machine Learning Engineer Intern",
@@ -5417,29 +5515,6 @@
    ],
    "sponsorship": "Other",
    "posted": "2026-10-23",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 16,
-   "reason": "Keyword match: machine learning. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "s-a99e2f5f-e8a",
-   "company": "Expedia Group",
-   "title": "Machine Learning Science Intern",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737",
-   "locations": [
-    "London, UK"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-21",
    "description": "",
    "source": "simplify",
    "focus": "engineering",
@@ -6192,6 +6267,31 @@
    "reason": "Keyword match: research, researcher, generative ai, alignment.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "s-46fd3fa6-a27",
+   "company": "NVIDIA",
+   "title": "AI Compiler and Kernel Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+   "locations": [
+    "Austin, TX"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-02",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 15,
+   "reason": "Keyword match: ai. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
   },
   {
    "id": "s-5617d404-c12",
@@ -7050,29 +7150,6 @@
    "reason": "Keyword match: ai. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-31"
-  },
-  {
-   "id": "s-7483f661-ca2",
-   "company": "Motorola",
-   "title": "Junior Software Engineer - AI Agent Platform",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300",
-   "locations": [
-    "Remote in Canada"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-05",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: agent, ai, software engineer.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-06"
   },
   {
    "id": "s-89b1d0e6-d40",
@@ -7961,6 +8038,29 @@
    "first_seen": "2026-10-14"
   },
   {
+   "id": "s-59dcdcf5-e04",
+   "company": "ICF International",
+   "title": "Energy Researcher Intern",
+   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418",
+   "locations": [
+    "Arlington County, Arlington, VA",
+    "Reston, VA",
+    "NYC"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [],
+   "sponsorship": "Other",
+   "posted": "2026-10-08",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 14,
+   "reason": "Keyword match: research, researcher.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
+  },
+  {
    "id": "s-f28161fe-bd4",
    "company": "Shield AI",
    "title": "Software Development Engineer New Grad",
@@ -8560,6 +8660,79 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "s-9fe00265-771",
+   "company": "Microsoft",
+   "title": "Software Engineer Intern - CoreAI",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-03",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 13,
+   "reason": "Keyword match: ai, software engineer.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "s-8c36b3e9-bb7",
+   "company": "LabCorp",
+   "title": "Full-Stack Life Sciences Software Engineer Co-op",
+   "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083",
+   "locations": [
+    "Durham, NC",
+    "Burlington, NC"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-02",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: software engineer, full-stack.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "s-e9db29d3-896",
+   "company": "Verkada",
+   "title": "Backend Software Engineer",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5280545007",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-02",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-03"
+  },
+  {
    "id": "s-3cb76e87-497",
    "company": "Sierra",
    "title": "Software Engineer New Grad - Agent",
@@ -8746,12 +8919,12 @@
    "first_seen": "2026-10-02"
   },
   {
-   "id": "gh-stripe-8194285",
+   "id": "gh-stripe-8194283",
    "company": "Stripe",
    "title": "PhD Data Scientist, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+   "url": "https://stripe.com/jobs/search?gh_jid=8194283",
    "locations": [
-    "Toronto"
+    "New York, Seattle, South San Francisco HQ"
    ],
    "type": "internship",
    "category": "",
@@ -8764,7 +8937,7 @@
    "score": 12,
    "reason": "Keyword match: phd, machine learning, data science.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-02"
+   "first_seen": "2026-11-03"
   },
   {
    "id": "gh-pinterest-8138097",
@@ -9446,153 +9619,6 @@
    "reason": "Keyword match: agent, software engineer.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
-  },
-  {
-   "id": "ab-notion-297b4ece-765",
-   "company": "Notion",
-   "title": "Software Engineer, Growth (Early Career)",
-   "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
-   "locations": [
-    "San Francisco, California"
-   ],
-   "type": "fulltime",
-   "category": "Early Career",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2026-07-06",
-   "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next featu",
-   "source": "ashby",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: research, agent, ai, software engineer.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "lv-palantir-3531977a-9b2",
-   "company": "Palantir",
-   "title": "Software Engineer, Internship",
-   "url": "https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1",
-   "locations": [
-    "Singapore, Singapore"
-   ],
-   "type": "internship",
-   "category": "Dev",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2026-01-14",
-   "description": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nSoftware Engineers at Palantir build software at scale to transform how organisations around the world use data. As a Software Engineer Intern, you’ll have an opportunity to grow more quickly than you ever envisioned, as you contribute high-quality code directly to Palantir Gotham, Pa",
-   "source": "lever",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: research scientist, research, software engineer, backend.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "gh-databricks-8133710002",
-   "company": "Databricks",
-   "title": "Software Engineering Intern (2027 Start) - Aarhus",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002",
-   "locations": [
-    "Aarhus, Denmark"
-   ],
-   "type": "internship",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2025-08-29",
-   "description": "P-1451 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We're hiring across all of our teams, including full stack, backend, infrastructure, sy",
-   "source": "greenhouse",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: agent, ai, software engineer, backend.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-02"
-  },
-  {
-   "id": "lv-palantir-0a838e66-1ab",
-   "company": "Palantir",
-   "title": "Software Engineer, New Grad - Defense",
-   "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278",
-   "locations": [
-    "New York, NY"
-   ],
-   "type": "fulltime",
-   "category": "Dev",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2025-06-19",
-   "description": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nSoftware Engineers at Palantir build software at scale to transform how organizations around the world use data. In this role, you’ll have an opportunity to grow more quickly than you ever envisioned as you contribute high-quality code directly to Palantir Gotham: products that are de",
-   "source": "lever",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: research scientist, research, software engineer, backend.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "gh-databricks-7640764002",
-   "company": "Databricks",
-   "title": "Software Engineering Intern (2027 Start) - Belgrade",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002",
-   "locations": [
-    "Belgrade, Serbia"
-   ],
-   "type": "internship",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2024-09-27",
-   "description": "P-1340 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We're hiring across all of our teams, including full stack, backend, infrastructure, sy",
-   "source": "greenhouse",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: agent, ai, software engineer, backend.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-02"
-  },
-  {
-   "id": "lv-palantir-2458ba08-de7",
-   "company": "Palantir",
-   "title": "Software Engineer, New Grad",
-   "url": "https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e",
-   "locations": [
-    "Singapore, Singapore"
-   ],
-   "type": "fulltime",
-   "category": "Dev",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2024-09-24",
-   "description": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nSoftware Engineers at Palantir build software at scale to transform how organizations around the world use data. In this role, you’ll have an opportunity to grow more quickly than you ever envisioned as you contribute high-quality code directly to Palantir Gotham, Palantir Apollo, or ",
-   "source": "lever",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: research scientist, research, software engineer, backend.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-01"
-  },
-  {
-   "id": "gh-databricks-6866534002",
-   "company": "Databricks",
-   "title": "Software Engineering Intern (2027 Start) - Amsterdam",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
-   "locations": [
-    "Amsterdam, Netherlands"
-   ],
-   "type": "internship",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2023-09-01",
-   "description": "P-969 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We're hiring across all of our teams, including full stack, backend, infrastructure, sys",
-   "source": "greenhouse",
-   "focus": "engineering",
-   "score": 12,
-   "reason": "Keyword match: agent, ai, software engineer, backend.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-01"
   }
  ]
 }
