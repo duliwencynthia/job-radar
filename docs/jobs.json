@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-07T16:50+00:00",
+ "generated_at": "2026-11-08T17:04+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 292,
-  "fulltime": 108
+  "internship": 295,
+  "fulltime": 105
  },
  "source_errors": [
   "lever:mistral: HTTP Error 404: Not Found"
@@ -330,12 +330,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-anthropic-5438311008",
+   "id": "gh-anthropic-5439169008",
    "company": "Anthropic",
    "title": "Anthropic Research Resident",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
    "locations": [
-    "San Francisco, CA | New York City, NY"
+    "London, UK"
    ],
    "type": "fulltime",
    "category": "",
@@ -348,7 +348,7 @@
    "score": 37,
    "reason": "Keyword match: phd, llm, large language, language model.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-08"
   },
   {
    "id": "s-d7b543a2-bef",
@@ -6322,36 +6322,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "s-3248cc32-d51",
-   "company": "Adobe",
-   "title": "Machine Learning Engineer New Grad",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
-   "locations": [
-    "Seattle, WA",
-    "SF",
-    "Austin, TX",
-    "San Jose, CA",
-    "Waltham, MA",
-    "NYC",
-    "Lehi, UT"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-24",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 16,
-   "reason": "Keyword match: machine learning. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-90c4aeeb-398",
    "company": "Waymo",
    "title": "Machine Learning Engineer Intern - Road Understanding",
@@ -7047,31 +7017,6 @@
    "reason": "Keyword match: software engineer. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-29"
-  },
-  {
-   "id": "s-5cb614bd-a49",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
-   "locations": [
-    "Boulder, CO"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-27",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-07"
   },
   {
    "id": "s-2ca476b1-e28",
@@ -9099,30 +9044,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-0a05b05d-daa",
-   "company": "Commure",
-   "title": "Software Engineer - Scribe AI",
-   "url": "https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application?embed=true",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-23",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 13,
-   "reason": "Keyword match: ai, software engineer.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-10aab0a0-09f",
    "company": "ByteDance",
    "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark",
@@ -9539,6 +9460,77 @@
    "reason": "Keyword match: software engineer, full-stack.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-08"
+  },
+  {
+   "id": "gh-databricks-8847738002",
+   "company": "Databricks",
+   "title": "Software Engineering Intern (2027 Start) - London",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
+   "locations": [
+    "London, United Kingdom"
+   ],
+   "type": "internship",
+   "category": "",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2026-10-02",
+   "description": "P-1601 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We're hiring across all of our teams, including full stack, backend, infrastructure, sy",
+   "source": "greenhouse",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: agent, ai, software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-08"
+  },
+  {
+   "id": "s-8d2d1d5d-410",
+   "company": "Datacor",
+   "title": "Data Science Intern - Summer 2027 - Program",
+   "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
+   "locations": [
+    "Remote in USA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-01",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: data science. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-08"
+  },
+  {
+   "id": "s-bc5fd93d-1ad",
+   "company": "Pinterest",
+   "title": "Data Science Intern",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169",
+   "locations": [
+    "Palo Alto, CA",
+    "Seattle, WA",
+    "SF",
+    "NYC"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-01",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: data science. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-08"
   }
  ]
 }
