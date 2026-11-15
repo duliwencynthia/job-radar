@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-14T17:08+00:00",
+ "generated_at": "2026-11-15T17:42+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 291,
-  "fulltime": 109
+  "internship": 295,
+  "fulltime": 105
  },
  "source_errors": [
   "lever:mistral: HTTP Error 404: Not Found"
@@ -620,7 +620,7 @@
   {
    "id": "gh-scaleai-4744402005",
    "company": "Scale AI",
-   "title": "AI Safety Residency - SLPreP",
+   "title": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005",
    "locations": [
     "Canada; United Kingdom; United States"
@@ -630,7 +630,7 @@
    "degrees": [],
    "sponsorship": "",
    "posted": "2026-10-16",
-   "description": "About the Program The Human Frontier Collective (HFC) brings researchers and scientists together to tackle consequential problems in AI. In partnership with Scale Labs Preparedness and Policy (SLPreP) , we are building a small cohort of researchers to work on the empirical foundations of AI safety. The work includes thinking about various failure modes, evaluating whether safety controls hold up under pressure in realistic settings, and studying how AI agents (mis-)behave over long-horizon tasks. Residents take open research questions like these and turn them into work that improves how fronti",
+   "description": "About the Program The Human Frontier Collective (HFC) brings researchers and scientists together to tackle consequential problems in AI. In partnership with the Preparedness and Policy research team , we are building a small cohort of researchers to work on the empirical foundations of AI safety. The work includes thinking about various failure modes, evaluating whether safety controls hold up under pressure in realistic settings, and studying how AI agents (mis-)behave over long-horizon tasks. Residents take open research questions like these and turn them into work that improves how frontier",
    "source": "greenhouse",
    "focus": "research",
    "score": 32,
@@ -2684,12 +2684,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-scaleai-4730834005",
+   "id": "gh-scaleai-4730846005",
    "company": "Scale AI",
    "title": "Software Engineering Intern (Summer 2027) ",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
    "locations": [
-    "Doha, Qatar "
+    "London, UK"
    ],
    "type": "internship",
    "category": "",
@@ -2702,15 +2702,15 @@
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-15"
   },
   {
-   "id": "gh-scaleai-4730862005",
+   "id": "gh-scaleai-4730851005",
    "company": "Scale AI",
    "title": "Software Engineer - New Grad",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
    "locations": [
-    "London, UK"
+    "Doha, Qatar "
    ],
    "type": "fulltime",
    "category": "",
@@ -2723,7 +2723,7 @@
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-15"
   },
   {
    "id": "s-31ab487e-bda",
@@ -4123,12 +4123,12 @@
    "first_seen": "2026-11-12"
   },
   {
-   "id": "gh-stripe-8333122",
+   "id": "gh-stripe-8333074",
    "company": "Stripe",
    "title": "Master's Machine Learning Engineer, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+   "url": "https://stripe.com/jobs/search?gh_jid=8333074",
    "locations": [
-    "Toronto"
+    "San Francisco, New York City, Seattle"
    ],
    "type": "internship",
    "category": "",
@@ -4141,7 +4141,7 @@
    "score": 18,
    "reason": "Keyword match: large language, language model, research, machine learning.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-15"
   },
   {
    "id": "s-9a3695ac-1a3",
@@ -6540,31 +6540,6 @@
    "first_seen": "2026-11-14"
   },
   {
-   "id": "s-13e19999-69c",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423",
-   "locations": [
-    "McClellan Park, CA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-11-13",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-13"
-  },
-  {
    "id": "s-f28de8cd-190",
    "company": "Senseye",
    "title": "AI Engineer",
@@ -6685,31 +6660,6 @@
    "reason": "Keyword match: software engineer. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-11-10"
-  },
-  {
-   "id": "s-cb9057c1-ead",
-   "company": "Shield AI",
-   "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
-   "locations": [
-    "United States"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-11-08",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-09"
   },
   {
    "id": "s-c924f746-7ad",
@@ -7562,54 +7512,6 @@
    "reason": "Keyword match: ml. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-02"
-  },
-  {
-   "id": "s-4fa11d47-e06",
-   "company": "Periodic Labs",
-   "title": "Research Scientist - Scaling RL",
-   "url": "https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0/application?embed=true",
-   "locations": [
-    "Montreal, QC, Canada",
-    "Menlo Park, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-01",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 15,
-   "reason": "Keyword match: research scientist, research.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": "s-1fe52eba-4aa",
-   "company": "Cambridge Consultants",
-   "title": "Graduate Human-Centric AI Engineer",
-   "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971959101",
-   "locations": [
-    "United Kingdom"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-01",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-31"
   },
   {
    "id": "s-bbe59360-d6e",
@@ -9268,12 +9170,12 @@
    "first_seen": "2026-11-12"
   },
   {
-   "id": "gh-stripe-8194283",
+   "id": "gh-stripe-8194285",
    "company": "Stripe",
    "title": "PhD Data Scientist, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+   "url": "https://stripe.com/jobs/search?gh_jid=8194285",
    "locations": [
-    "New York, Seattle, South San Francisco HQ"
+    "Toronto"
    ],
    "type": "internship",
    "category": "",
@@ -9286,7 +9188,7 @@
    "score": 12,
    "reason": "Keyword match: phd, machine learning, data science.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-14"
+   "first_seen": "2026-11-15"
   },
   {
    "id": "gh-pinterest-8138097",
@@ -9532,6 +9434,105 @@
    "reason": "Keyword match: data science. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-11-14"
+  },
+  {
+   "id": "s-c671ab74-606",
+   "company": "AspenTech",
+   "title": "Data Science Intern",
+   "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459",
+   "locations": [
+    "Bedford, MA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-15",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: data science. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "s-c7521562-959",
+   "company": "Lyft",
+   "title": "Software Engineer Intern - Backend",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+   "locations": [
+    "SF"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-11",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "s-c66b6cc2-a45",
+   "company": "Lyft",
+   "title": "Data Science Intern - Algorithms",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-11",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: data science. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "s-7a58365b-0d7",
+   "company": "Edison International",
+   "title": "Data Analytics Intern - Data Science - Applied Math",
+   "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors",
+   "locations": [
+    "Pomona, CA",
+    "Rosemead, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "MBA",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-01",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: data science. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-15"
   }
  ]
 }
