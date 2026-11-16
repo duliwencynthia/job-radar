@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T17:42+00:00",
+ "generated_at": "2026-11-16T21:01+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 295,
-  "fulltime": 105
+  "internship": 296,
+  "fulltime": 104
  },
  "source_errors": [
   "lever:mistral: HTTP Error 404: Not Found"
@@ -286,12 +286,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-anthropic-5439169008",
+   "id": "gh-anthropic-5438311008",
    "company": "Anthropic",
    "title": "Anthropic Research Resident",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
    "locations": [
-    "London, UK"
+    "San Francisco, CA | New York City, NY"
    ],
    "type": "fulltime",
    "category": "",
@@ -304,7 +304,7 @@
    "score": 37,
    "reason": "Keyword match: phd, llm, large language, language model.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-12"
+   "first_seen": "2026-11-16"
   },
   {
    "id": "s-d7b543a2-bef",
@@ -972,30 +972,6 @@
    "first_seen": "2026-10-24"
   },
   {
-   "id": "s-2f809092-b7f",
-   "company": "Microsoft",
-   "title": "Researcher Intern - Coreai",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-   "locations": [
-    "Redmond, WA",
-    "Mountain View, CA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-15",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 29,
-   "reason": "Keyword match: research, researcher, ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-03"
-  },
-  {
    "id": "s-dcfc9399-37e",
    "company": "Waymo",
    "title": "Software Engineering Intern - MS/PhD - Sys Intel & ML",
@@ -1394,30 +1370,6 @@
    "reason": "Keyword match: phd, research. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-13"
-  },
-  {
-   "id": "s-865bf71e-5c8",
-   "company": "Interdigital",
-   "title": "Research Engineer - 6G AI-Enabled Systems and Testbeds",
-   "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---6G-AI-Enabled-Systems-and-Testbeds_REQ26-1144",
-   "locations": [
-    "Conshohocken, PA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-02",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 27,
-   "reason": "Keyword match: research engineer, research. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-03"
   },
   {
    "id": "s-bd15f88f-f59",
@@ -2684,12 +2636,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-scaleai-4730846005",
+   "id": "gh-scaleai-4730834005",
    "company": "Scale AI",
    "title": "Software Engineering Intern (Summer 2027) ",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
    "locations": [
-    "London, UK"
+    "Doha, Qatar "
    ],
    "type": "internship",
    "category": "",
@@ -2702,15 +2654,15 @@
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-16"
   },
   {
-   "id": "gh-scaleai-4730851005",
+   "id": "gh-scaleai-4730862005",
    "company": "Scale AI",
    "title": "Software Engineer - New Grad",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
    "locations": [
-    "Doha, Qatar "
+    "London, UK"
    ],
    "type": "fulltime",
    "category": "",
@@ -2723,7 +2675,7 @@
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-15"
+   "first_seen": "2026-11-16"
   },
   {
    "id": "s-31ab487e-bda",
@@ -2816,6 +2768,32 @@
    "reason": "Keyword match: phd, llm, nlp, research.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "s-ba118afe-799",
+   "company": "Boston Scientific",
+   "title": "AI Engineer Intern - Generative & Agentic AI",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+   "locations": [
+    "Marlborough, MA",
+    "Maple Grove, MN",
+    "Arden Hills, MN"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-16",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 22,
+   "reason": "Keyword match: agent, agentic, ai.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-16"
   },
   {
    "id": "s-a33d39bf-29f",
@@ -3455,12 +3433,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-databricks-8482037002",
+   "id": "gh-databricks-8482086002",
    "company": "Databricks",
    "title": "Systems PhD - Software Engineer ",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002",
    "locations": [
-    "Mountain View, California; San Francisco, California"
+    "Bellevue, Washington; Seattle, Washington"
    ],
    "type": "fulltime",
    "category": "",
@@ -3473,7 +3451,7 @@
    "score": 21,
    "reason": "Keyword match: phd, agent, generative ai, ai.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-13"
+   "first_seen": "2026-11-16"
   },
   {
    "id": "s-2bfd33ca-a57",
@@ -3498,29 +3476,6 @@
    "reason": "Keyword match: ai, software engineer. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-11-14"
-  },
-  {
-   "id": "s-43a5457f-e1a",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "PhD Graduate - Health Systems Engineer / Analyst",
-   "url": "https://careers.jhuapl.edu/jobs/60914?icims=1&lang=en-us",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-11-10",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 20,
-   "reason": "Keyword match: phd. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-11"
   },
   {
    "id": "s-0cec02b3-ff6",
@@ -4499,6 +4454,29 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "s-37c952a4-d32",
+   "company": "Instil Software Ltd",
+   "title": "Graduate Agentic Software Engineer",
+   "url": "https://jobs.ashbyhq.com/instil/5d2b8cc5-1276-4993-a407-ed502cd79fc8/application?embed=true",
+   "locations": [
+    "Belfast, UK"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-16",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 17,
+   "reason": "Keyword match: agent, agentic, software engineer.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-16"
+  },
+  {
    "id": "s-b93c8f86-a56",
    "company": "StackAV",
    "title": "Research Intern - Autonomy",
@@ -5341,31 +5319,6 @@
    "reason": "Keyword match: research. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
-  },
-  {
-   "id": "s-aacdb2a7-739",
-   "company": "Smith+Nephew",
-   "title": "Data Science Intern - AI Center of Excellence",
-   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-17",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 17,
-   "reason": "Keyword match: ai, data science. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-05"
   },
   {
    "id": "s-cb134c63-620",
@@ -8326,32 +8279,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "s-0ce857da-f2c",
-   "company": "GM financial",
-   "title": "Software Development Engineer Intern",
-   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795",
-   "locations": [
-    "Arlington, TX"
-   ],
-   "type": "internship",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "MBA",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-17",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 14,
-   "reason": "Keyword match: software development. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "s-5e0e308e-26a",
    "company": "Apera AI",
    "title": "Machine Learning Applied Scientist Co-op",
@@ -9533,6 +9460,82 @@
    "reason": "Keyword match: data science. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-11-15"
+  },
+  {
+   "id": "s-cf498cbc-375",
+   "company": "Edison International",
+   "title": "Data Analytics Intern - Data Science/Applied Math",
+   "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors",
+   "locations": [
+    "Pomona, CA",
+    "Rosemead, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "MBA",
+    "PharmD",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-01",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: data science. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-16"
+  },
+  {
+   "id": "s-249dfb65-9e2",
+   "company": "TWG Global",
+   "title": "Data Science Intern - SOLT",
+   "url": "https://apply.workable.com/twgai/j/263B34D737/apply",
+   "locations": [
+    "Santa Monica, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-01",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: data science. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-16"
+  },
+  {
+   "id": "s-27ec0955-4e9",
+   "company": "Verkada",
+   "title": "Backend Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-25",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-16"
   }
  ]
 }
