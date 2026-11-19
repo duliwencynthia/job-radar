@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T19:24+00:00",
+ "generated_at": "2026-11-19T19:29+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 295,
-  "fulltime": 105
+  "internship": 294,
+  "fulltime": 106
  },
  "source_errors": [
   "lever:mistral: HTTP Error 404: Not Found"
@@ -398,30 +398,6 @@
    "first_seen": "2026-10-01"
   },
   {
-   "id": "s-55a28a09-e8b",
-   "company": "NVIDIA",
-   "title": "PhD Research Intern - Generalist Embodied Agents Research",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103",
-   "locations": [
-    "Remote in USA",
-    "Santa Clara, CA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-17",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 34,
-   "reason": "Keyword match: phd, research, agent. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-13"
-  },
-  {
    "id": "gh-pinterest-8140363",
    "company": "Pinterest",
    "title": "PhD University Grad Machine Learning Engineer (USA) ",
@@ -441,6 +417,30 @@
    "reason": "Keyword match: phd, nlp, natural language, research.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-01"
+  },
+  {
+   "id": "s-94d67853-2e9",
+   "company": "Crusoe",
+   "title": "AI Applied Research PhD Intern",
+   "url": "https://jobs.ashbyhq.com/crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b/application?embed=true",
+   "locations": [
+    "SF",
+    "Sunnyvale, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-18",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 32,
+   "reason": "Keyword match: phd, research, ai. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "s-0c7e5252-d2b",
@@ -542,31 +542,6 @@
    "reason": "Keyword match: large language, language model, ai. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-23"
-  },
-  {
-   "id": "s-a9c9cf9c-258",
-   "company": "NVIDIA",
-   "title": "PhD Research Intern - AI for Climate and Weather Simulation",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
-   "locations": [
-    "Canada",
-    "Santa Clara, CA",
-    "United States"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-21",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 32,
-   "reason": "Keyword match: phd, research, ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-22"
   },
   {
    "id": "s-3a9db7a0-7d9",
@@ -1203,29 +1178,6 @@
    "reason": "Keyword match: phd, software engineer, data science. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-24"
-  },
-  {
-   "id": "s-76a80127-61c",
-   "company": "Riverlane",
-   "title": "PhD Research Intern",
-   "url": "https://www.riverlane.com/jobs?gh_jid=5009045101#vacancies",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-16",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 27,
-   "reason": "Keyword match: phd, research. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-29"
   },
   {
    "id": "s-9e2e7d36-c34",
@@ -1868,27 +1820,6 @@
    "first_seen": "2026-10-31"
   },
   {
-   "id": "s-91908e47-ddd",
-   "company": "Thales",
-   "title": "AI Researcher Apprentice - Level 6 Machine Learning",
-   "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-AI-Researcher-Apprentice---Level-6-Machine-Learning_R0337756-1",
-   "locations": [
-    "Crawley, UK"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [],
-   "sponsorship": "Other",
-   "posted": "2026-10-05",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 25,
-   "reason": "Keyword match: research, researcher, machine learning, ai.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-05"
-  },
-  {
    "id": "gh-scaleai-4660340005",
    "company": "Scale AI",
    "title": "Machine Learning Fellow - Human Frontier Collective",
@@ -1950,6 +1881,29 @@
    "reason": "Keyword match: phd, llm, research, researcher.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "s-b7ec9df6-51e",
+   "company": "Lawrence Livermore National Laboratory (LLNL)",
+   "title": "Numerical Program Analysis for Scientific Computing Postdoctoral Researcher",
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990016939826",
+   "locations": [
+    "Livermore, CA"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-18",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 24,
+   "reason": "Keyword match: research, researcher. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "s-542753ed-5d8",
@@ -2353,30 +2307,6 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "s-3ee8cde6-c82",
-   "company": "Waymo",
-   "title": "MS/PhD Intern - Sim-Realism ML Infrastructure",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8205680",
-   "locations": [
-    "London, UK"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-09-18",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 24,
-   "reason": "Keyword match: phd, ml. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "s-98b66b52-3f0",
    "company": "Google",
    "title": "Software Engineering or Site Reliability Engineering PhD Intern",
@@ -2589,12 +2519,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-scaleai-4730862005",
+   "id": "gh-scaleai-4730851005",
    "company": "Scale AI",
    "title": "Software Engineer - New Grad",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
    "locations": [
-    "London, UK"
+    "Doha, Qatar "
    ],
    "type": "fulltime",
    "category": "",
@@ -2607,7 +2537,7 @@
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-18"
+   "first_seen": "2026-11-19"
   },
   {
    "id": "gh-scaleai-4730845005",
@@ -3459,12 +3389,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-databricks-8482037002",
+   "id": "gh-databricks-8482086002",
    "company": "Databricks",
    "title": "Systems PhD - Software Engineer ",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002",
    "locations": [
-    "Mountain View, California; San Francisco, California"
+    "Bellevue, Washington; Seattle, Washington"
    ],
    "type": "fulltime",
    "category": "",
@@ -3477,7 +3407,7 @@
    "score": 21,
    "reason": "Keyword match: phd, agent, generative ai, ai.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-18"
+   "first_seen": "2026-11-19"
   },
   {
    "id": "s-139eba17-3df",
@@ -4009,6 +3939,30 @@
    "reason": "Keyword match: phd, research, researcher, machine learning.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "s-b65e240a-f39",
+   "company": "CWILL",
+   "title": "AI Agent R&D Trainee - Full-Stack Engineer - Bilingual Mandarin",
+   "url": "https://apply.workable.com/cwill-us/j/1BC6285A3C/apply",
+   "locations": [
+    "Cary, NC"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-18",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 19,
+   "reason": "Keyword match: agent, ai, full-stack.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "lv-palantir-40840cef-bbd",
@@ -6545,31 +6499,6 @@
    "first_seen": "2026-11-13"
   },
   {
-   "id": "s-93533abf-e9f",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer - Pathways",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-11-11",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "s-55e6b934-659",
    "company": "REGENT",
    "title": "Mission Software Engineering Intern",
@@ -6616,31 +6545,6 @@
    "reason": "Keyword match: machine learning, artificial intelligence.",
    "ranked_by": "keywords",
    "first_seen": "2026-11-11"
-  },
-  {
-   "id": "s-b90323c9-0bc",
-   "company": "UiPath",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "type": "internship",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-11-09",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-10"
   },
   {
    "id": "s-cb9057c1-ead",
@@ -6787,31 +6691,6 @@
    "reason": "Keyword match: software engineer. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-11-07"
-  },
-  {
-   "id": "s-46fd3fa6-a27",
-   "company": "NVIDIA",
-   "title": "AI Compiler and Kernel Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
-   "locations": [
-    "Austin, TX"
-   ],
-   "type": "internship",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-11-02",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-03"
   },
   {
    "id": "s-2ca476b1-e28",
@@ -7421,29 +7300,6 @@
    "reason": "Keyword match: ai. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-31"
-  },
-  {
-   "id": "s-7483f661-ca2",
-   "company": "Motorola",
-   "title": "Junior Software Engineer - AI Agent Platform",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300",
-   "locations": [
-    "Remote in Canada"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-05",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: agent, ai, software engineer.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-11"
   },
   {
    "id": "s-7747e648-90c",
@@ -8231,27 +8087,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "s-5e0e308e-26a",
-   "company": "Apera AI",
-   "title": "Machine Learning Applied Scientist Co-op",
-   "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007",
-   "locations": [
-    "Vancouver, BC, Canada"
-   ],
-   "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [],
-   "sponsorship": "Other",
-   "posted": "2026-09-16",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 14,
-   "reason": "Keyword match: applied scientist, machine learning.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "ab-notion-3fba1c39-c5c",
    "company": "Notion",
    "title": "Software Engineer Intern (Summer 2027)",
@@ -8404,30 +8239,6 @@
    "reason": "Keyword match: ai, software engineer.",
    "ranked_by": "keywords",
    "first_seen": "2026-11-12"
-  },
-  {
-   "id": "s-23e73d43-3b9",
-   "company": "Graphcore",
-   "title": "Software Engineer Intern - AI Compute Libraries & Performance",
-   "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902325002",
-   "locations": [
-    "Bristol, UK"
-   ],
-   "type": "internship",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-20",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 13,
-   "reason": "Keyword match: ai, software engineer.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-18"
   },
   {
    "id": "s-d9e469da-03c",
@@ -8954,6 +8765,30 @@
    "first_seen": "2026-10-24"
   },
   {
+   "id": "s-07baff59-c50",
+   "company": "Apple",
+   "title": "OS Software Engineer - Evaluation",
+   "url": "https://jobs.apple.com/en-us/details/200688625",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "type": "fulltime",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-10-13",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: software engineer, evaluation.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "s-88b1fed5-3a2",
    "company": "SpruceID",
    "title": "Full-Stack Software Engineer New Grad",
@@ -9049,12 +8884,12 @@
    "first_seen": "2026-11-12"
   },
   {
-   "id": "gh-stripe-8194283",
+   "id": "gh-stripe-8194285",
    "company": "Stripe",
    "title": "PhD Data Scientist, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+   "url": "https://stripe.com/jobs/search?gh_jid=8194285",
    "locations": [
-    "New York, Seattle, South San Francisco HQ"
+    "Toronto"
    ],
    "type": "internship",
    "category": "",
@@ -9067,7 +8902,7 @@
    "score": 12,
    "reason": "Keyword match: phd, machine learning, data science.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-18"
+   "first_seen": "2026-11-19"
   },
   {
    "id": "gh-pinterest-8138097",
@@ -9560,6 +9395,169 @@
    "reason": "Keyword match: software engineer, backend.",
    "ranked_by": "keywords",
    "first_seen": "2026-11-17"
+  },
+  {
+   "id": "s-55417269-030",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Trust and Safety Engineering",
+   "url": "https://lifeattiktok.com/search/7662684280234232117",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-03",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: software engineer, safety.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "s-f1a4558f-cc8",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern",
+   "url": "https://lifeattiktok.com/search/7667934635573692725",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-03",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "s-06c11bb5-43c",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - Innovative Growth",
+   "url": "https://lifeattiktok.com/search/7667934860750063925",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-03",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "s-2e35f7c5-643",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - Digital Content Center",
+   "url": "https://lifeattiktok.com/search/7667934302872537397",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-08-03",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "s-e0f7c410-495",
+   "company": "G-Research",
+   "title": "Data Science Intern",
+   "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679",
+   "locations": [
+    "London, UK"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-07-23",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: data science. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "s-a6f02442-de0",
+   "company": "Cybernetic Labs",
+   "title": "Software Engineer Intern - Agent Platform",
+   "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [],
+   "sponsorship": "Other",
+   "posted": "2026-07-16",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: agent, software engineer.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "ab-notion-297b4ece-765",
+   "company": "Notion",
+   "title": "Software Engineer, Growth (Early Career)",
+   "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
+   "locations": [
+    "San Francisco, California"
+   ],
+   "type": "fulltime",
+   "category": "Early Career",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2026-07-06",
+   "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next featu",
+   "source": "ashby",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: research, agent, ai, software engineer.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-19"
   }
  ]
 }
