@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T18:30+00:00",
+ "generated_at": "2026-11-23T22:38+00:00",
  "candidate": "Liwen (Cynthia) Du",
  "counts": {
-  "internship": 303,
-  "fulltime": 97
+  "internship": 314,
+  "fulltime": 86
  },
  "source_errors": [
   "lever:mistral: HTTP Error 404: Not Found"
@@ -189,29 +189,6 @@
    "first_seen": "2026-10-29"
   },
   {
-   "id": "s-1945c4fb-7c6",
-   "company": "TikTok",
-   "title": "Research Scientist New Grad - Conversational AI",
-   "url": "https://lifeattiktok.com/search/7670685496821713205",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-09",
-   "description": "",
-   "source": "simplify",
-   "focus": "research",
-   "score": 39,
-   "reason": "Keyword match: research scientist, research, conversational, ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-10"
-  },
-  {
    "id": "s-ac3e3883-21b",
    "company": "TikTok",
    "title": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture",
@@ -306,27 +283,6 @@
    "reason": "Keyword match: research scientist, research, machine learning, ai. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
-  },
-  {
-   "id": "gh-anthropic-5439169008",
-   "company": "Anthropic",
-   "title": "Anthropic Research Resident",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
-   "locations": [
-    "London, UK"
-   ],
-   "type": "fulltime",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2026-10-28",
-   "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role The Anthropic Residency is our paid, fixed-term research program, with placements lasting between six weeks and six months. We are looking for people who have led ambitious work in a variety of technical fields and want to transition to full-time ",
-   "source": "greenhouse",
-   "focus": "research",
-   "score": 37,
-   "reason": "Keyword match: phd, llm, large language, language model.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-21"
   },
   {
    "id": "s-d7b543a2-bef",
@@ -618,7 +574,7 @@
    "title": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005",
    "locations": [
-    "Canada; United Kingdom; United States"
+    "United Kingdom; United States"
    ],
    "type": "fulltime",
    "category": "",
@@ -991,12 +947,12 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh-stripe-8328664",
+   "id": "gh-stripe-8328662",
    "company": "Stripe",
    "title": "PhD Machine Learning Engineer, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+   "url": "https://stripe.com/jobs/search?gh_jid=8328662",
    "locations": [
-    "Toronto"
+    "San Francisco, New York City, Seattle"
    ],
    "type": "internship",
    "category": "",
@@ -1009,7 +965,7 @@
    "score": 28,
    "reason": "Keyword match: phd, large language, language model, research.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-23"
   },
   {
    "id": "s-1f204319-dfd",
@@ -1867,7 +1823,7 @@
   {
    "id": "gh-scaleai-4660340005",
    "company": "Scale AI",
-   "title": "Machine Learning Fellow - Human Frontier Collective",
+   "title": "Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada)",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
    "locations": [
     "United States"
@@ -1877,49 +1833,7 @@
    "degrees": [],
    "sponsorship": "",
    "posted": "2026-02-12",
-   "description": "About the Collective The Human Frontier Collective (HFC) ’s mission is to bring the world's best minds to shape the future of AI – because the future of AI depends not only on powerful models, but on the people who teach them to think. We bring together researchers, academics, and domain leaders across 70+ fields – over 90% of members hold doctorates – to shape how frontier AI systems are built, evaluated, and governed. HFC members have since co-authored published work including SciPredict , PropensityBench , and Professional Reasoning Benchmark . Why join the HFC HFC centers on three core pil",
-   "source": "greenhouse",
-   "focus": "research",
-   "score": 25,
-   "reason": "Keyword match: phd, llm, research, researcher.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "gh-scaleai-4661650005",
-   "company": "Scale AI",
-   "title": "Machine Learning Fellow - Human Frontier Collective (Canada)",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4661650005",
-   "locations": [
-    "Canada"
-   ],
-   "type": "fulltime",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2026-02-12",
-   "description": "About the Collective The Human Frontier Collective (HFC) ’s mission is to bring the world's best minds to shape the future of AI – because the future of AI depends not only on powerful models, but on the people who teach them to think. We bring together researchers, academics, and domain leaders across 70+ fields – over 90% of members hold doctorates – to shape how frontier AI systems are built, evaluated, and governed. HFC members have since co-authored published work including SciPredict , PropensityBench , and Professional Reasoning Benchmark . Why join the HFC HFC centers on three core pil",
-   "source": "greenhouse",
-   "focus": "research",
-   "score": 25,
-   "reason": "Keyword match: phd, llm, research, researcher.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "gh-scaleai-4661647005",
-   "company": "Scale AI",
-   "title": "Machine Learning Fellow - Human Frontier Collective (UK)",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4661647005",
-   "locations": [
-    "United Kingdom"
-   ],
-   "type": "fulltime",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2026-02-12",
-   "description": "About the Collective The Human Frontier Collective (HFC) ’s mission is to bring the world's best minds to shape the future of AI – because the future of AI depends not only on powerful models, but on the people who teach them to think. We bring together researchers, academics, and domain leaders across 70+ fields – over 90% of members hold doctorates – to shape how frontier AI systems are built, evaluated, and governed. HFC members have since co-authored published work including SciPredict , PropensityBench , and Professional Reasoning Benchmark . Why join the HFC HFC centers on three core pil",
+   "description": "PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. This role is open to candidates residing in the United States, United Kingdom, and Canada.To be eligible, candidates must be authorized to work in the country they reside in. About the Collective The Human Frontier Collective (HFC) ’s mission is to bring the world's best minds to shape the future of AI – because the future of AI depends not only on powerful models, but on the people who teach them to think. We bring together researchers, academi",
    "source": "greenhouse",
    "focus": "research",
    "score": 25,
@@ -2540,25 +2454,25 @@
    "first_seen": "2026-11-22"
   },
   {
-   "id": "gh-scaleai-4730862005",
+   "id": "gh-scaleai-4730836005",
    "company": "Scale AI",
    "title": "Software Engineer - New Grad",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
    "locations": [
-    "London, UK"
+    "San Francisco, CA"
    ],
    "type": "fulltime",
    "category": "",
    "degrees": [],
    "sponsorship": "",
-   "posted": "2026-09-14",
+   "posted": "2026-09-04",
    "description": "At Scale, our mission is to develop reliable AI systems for the world's most important decisions. For 10 years, Scale has provided the high-quality data and full-stack technologies that power the world's leading models, and has helped enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. Every industry is moving AI to the center of operations, but there is still no clear bluepri",
    "source": "greenhouse",
    "focus": "engineering",
    "score": 23,
    "reason": "Keyword match: llm, research, agent, agentic.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-21"
+   "first_seen": "2026-11-23"
   },
   {
    "id": "s-31ab487e-bda",
@@ -3385,12 +3299,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh-databricks-8482037002",
+   "id": "gh-databricks-8482086002",
    "company": "Databricks",
    "title": "Systems PhD - Software Engineer ",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002",
    "locations": [
-    "Mountain View, California; San Francisco, California"
+    "Bellevue, Washington; Seattle, Washington"
    ],
    "type": "fulltime",
    "category": "",
@@ -3403,7 +3317,30 @@
    "score": 21,
    "reason": "Keyword match: phd, agent, generative ai, ai.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-20"
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "s-5d0d0eae-132",
+   "company": "JP Morgan Chase",
+   "title": "Machine Learning Intern - Time Series and Reinforcement Learning",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784",
+   "locations": [
+    "London, UK"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-23",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 20,
+   "reason": "Keyword match: machine learning, reinforcement learning. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
   },
   {
    "id": "s-fe78548c-a1e",
@@ -4000,12 +3937,12 @@
    "first_seen": "2026-11-12"
   },
   {
-   "id": "gh-stripe-8333074",
+   "id": "gh-stripe-8333122",
    "company": "Stripe",
    "title": "Master's Machine Learning Engineer, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+   "url": "https://stripe.com/jobs/search?gh_jid=8333122",
    "locations": [
-    "San Francisco, New York City, Seattle"
+    "Toronto"
    ],
    "type": "internship",
    "category": "",
@@ -4018,7 +3955,7 @@
    "score": 18,
    "reason": "Keyword match: large language, language model, research, machine learning.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-21"
+   "first_seen": "2026-11-23"
   },
   {
    "id": "s-9a3695ac-1a3",
@@ -4263,48 +4200,6 @@
    "focus": "research",
    "score": 18,
    "reason": "Keyword match: applied scientist. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "gh-scaleai-4613333005",
-   "company": "Scale AI",
-   "title": "Legal Fellow - Human Frontier Collective (UK)",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4613333005",
-   "locations": [
-    "United Kingdom"
-   ],
-   "type": "fulltime",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2025-10-17",
-   "description": "PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the country they reside in. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-e",
-   "source": "greenhouse",
-   "focus": "research",
-   "score": 18,
-   "reason": "Keyword match: llm, research, researcher, generative ai.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "gh-scaleai-4565834005",
-   "company": "Scale AI",
-   "title": "Legal Fellow - Human Frontier Collective (US)",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565834005",
-   "locations": [
-    "United States"
-   ],
-   "type": "fulltime",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2025-10-09",
-   "description": "PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the United States; visa sponsorship is not available for this role. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI sys",
-   "source": "greenhouse",
-   "focus": "research",
-   "score": 18,
-   "reason": "Keyword match: llm, research, researcher, generative ai.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
   },
@@ -5402,27 +5297,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "gh-scaleai-4613327005",
-   "company": "Scale AI",
-   "title": "Finance Fellow - Human Frontier Collective (UK)",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4613327005",
-   "locations": [
-    "United Kingdom"
-   ],
-   "type": "fulltime",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2025-10-17",
-   "description": "PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the country they reside in. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-e",
-   "source": "greenhouse",
-   "focus": "research",
-   "score": 17,
-   "reason": "Keyword match: phd, research, researcher, generative ai.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "gh-scaleai-4574113005",
    "company": "Scale AI",
    "title": "STEM Fellow - Human Frontier Collective (US, UK, & Canada)",
@@ -5442,6 +5316,27 @@
    "reason": "Keyword match: phd, research, researcher, machine learning.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "gh-scaleai-4565836005",
+   "company": "Scale AI",
+   "title": "Finance Fellow - Human Frontier Collective (US, UK, & Canada)",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565836005",
+   "locations": [
+    "United States"
+   ],
+   "type": "fulltime",
+   "category": "",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2025-05-17",
+   "description": "PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. This role is open to candidates residing in the United States, United Kingdom, and Canada.To be eligible, candidates must be authorized to work in the country they reside in. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, ",
+   "source": "greenhouse",
+   "focus": "research",
+   "score": 17,
+   "reason": "Keyword match: phd, research, researcher, generative ai.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
   },
   {
    "id": "s-372dccd9-1f3",
@@ -5834,29 +5729,6 @@
    "first_seen": "2026-10-13"
   },
   {
-   "id": "s-9f92b24f-ac5",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Conversational AI",
-   "url": "https://lifeattiktok.com/search/7670685495206857013",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-09",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 16,
-   "reason": "Keyword match: conversational, machine learning, ai.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-10"
-  },
-  {
    "id": "s-a88c4837-dfc",
    "company": "Waymo",
    "title": "Summer Intern - Machine Learning - Planning/Prediction",
@@ -5865,29 +5737,6 @@
     "Mountain View, CA"
    ],
    "type": "internship",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-08",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 16,
-   "reason": "Keyword match: machine learning. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "s-18a4d979-0df",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
-   "url": "https://lifeattiktok.com/search/7694351754099804469",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "type": "fulltime",
    "category": "AI/ML/Data",
    "degrees": [
     "PhD"
@@ -6336,9 +6185,30 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "gh-scaleai-4565834005",
+   "company": "Scale AI",
+   "title": "Legal Fellow - Human Frontier Collective (US, UK, & Canada)",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565834005",
+   "locations": [
+    "United States"
+   ],
+   "type": "fulltime",
+   "category": "",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2025-10-09",
+   "description": "PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. This role is open to candidates residing in the United States, United Kingdom, and Canada.To be eligible, candidates must be authorized to work in the country they reside in. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, ",
+   "source": "greenhouse",
+   "focus": "research",
+   "score": 16,
+   "reason": "Keyword match: llm, research, researcher, generative ai.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-09-25"
+  },
+  {
    "id": "gh-scaleai-4591782005",
    "company": "Scale AI",
-   "title": "Medical Fellow - Human Frontier Collective (US)",
+   "title": "Medical Fellow - Human Frontier Collective (US, UK, & Canada)",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4591782005",
    "locations": [
     "United States"
@@ -6348,7 +6218,7 @@
    "degrees": [],
    "sponsorship": "",
    "posted": "2025-07-30",
-   "description": "PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the United States; visa sponsorship is not available for this role. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI sys",
+   "description": "PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. This role is open to candidates residing in the United States, United Kingdom, and Canada.To be eligible, candidates must be authorized to work in the country they reside in. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, ",
    "source": "greenhouse",
    "focus": "research",
    "score": 16,
@@ -6381,16 +6251,15 @@
    "first_seen": "2026-11-20"
   },
   {
-   "id": "s-00cd908d-fc5",
-   "company": "Snowflake",
-   "title": "Software Engineer Intern - Database Engineering",
-   "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true",
+   "id": "s-32c50724-f6f",
+   "company": "Genentech",
+   "title": "AI for Drug Discovery Intern - AI for Drug Discovery - AIDD",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1",
    "locations": [
-    "Menlo Park, CA",
-    "Bellevue, WA"
+    "NYC"
    ],
    "type": "internship",
-   "category": "Software",
+   "category": "AI/ML/Data",
    "degrees": [
     "Bachelor's",
     "Master's",
@@ -6402,56 +6271,9 @@
    "source": "simplify",
    "focus": "engineering",
    "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
+   "reason": "Keyword match: ai. PhD listed as eligible.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-20"
-  },
-  {
-   "id": "s-503772a8-8c8",
-   "company": "Koch Industries",
-   "title": "Software Engineer - AI Agents",
-   "url": "https://koch.avature.net/en_US/careers/JobDetail/197657",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-11-19",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: agent, ai, software engineer.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-20"
-  },
-  {
-   "id": "s-de591e99-9d3",
-   "company": "CDM Smith",
-   "title": "Artificial Intelligence/Machine Learning Developer",
-   "url": "https://careers.cdmsmith.com/jobs/4994?icims=1&lang=en-us",
-   "locations": [
-    "Fairfax, VA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-11-17",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: machine learning, artificial intelligence.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-18"
+   "first_seen": "2026-11-23"
   },
   {
    "id": "s-00fdcfd6-755",
@@ -6552,18 +6374,17 @@
    "first_seen": "2026-11-10"
   },
   {
-   "id": "s-d9461ffc-f97",
-   "company": "International",
-   "title": "Artificial Intelligence/Machine Learning Intern",
-   "url": "https://careers.international.com/jobs/60456?icims=1&lang=en-us",
+   "id": "s-48a0be91-2b9",
+   "company": "Shield AI",
+   "title": "Perception Engineer - Multimodal & Embodied AI",
+   "url": "https://jobs.ashbyhq.com/shield/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true",
    "locations": [
-    "Lisle, IL"
+    "San Diego, CA"
    ],
-   "type": "internship",
+   "type": "fulltime",
    "category": "AI/ML/Data",
    "degrees": [
-    "Bachelor's",
-    "Master's"
+    "PhD"
    ],
    "sponsorship": "Other",
    "posted": "2026-11-10",
@@ -6571,9 +6392,9 @@
    "source": "simplify",
    "focus": "engineering",
    "score": 15,
-   "reason": "Keyword match: machine learning, artificial intelligence.",
+   "reason": "Keyword match: ai. PhD listed as eligible.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-23"
   },
   {
    "id": "s-cb9057c1-ead",
@@ -7138,52 +6959,6 @@
    "first_seen": "2026-10-20"
   },
   {
-   "id": "s-303c8256-045",
-   "company": "Uber",
-   "title": "Graduate Software Engineer 2",
-   "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301355",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-09",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "s-26e746a6-6f1",
-   "company": "Shield AI",
-   "title": "Perception Engineer - Multimodal & Embodied AI",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "type": "fulltime",
-   "category": "AI/ML/Data",
-   "degrees": [
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-09",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: ai. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-28"
-  },
-  {
    "id": "s-fd295519-9a1",
    "company": "Modernizing Medicine",
    "title": "Software Engineer Intern",
@@ -7228,31 +7003,6 @@
    "focus": "engineering",
    "score": 15,
    "reason": "Keyword match: agent, ai.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "s-30c93264-7b6",
-   "company": "Two Sigma",
-   "title": "Software Engineer New Grad",
-   "url": "https://twosigma.avature.net/careers/JobDetail/14020",
-   "locations": [
-    "London, UK"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's",
-    "PhD"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-10-08",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 15,
-   "reason": "Keyword match: software engineer. PhD listed as eligible.",
    "ranked_by": "keywords",
    "first_seen": "2026-10-09"
   },
@@ -7677,27 +7427,6 @@
    "focus": "engineering",
    "score": 15,
    "reason": "Keyword match: software engineer. PhD listed as eligible.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-09-25"
-  },
-  {
-   "id": "gh-scaleai-4612329005",
-   "company": "Scale AI",
-   "title": "Medical Fellow - Human Frontier Collective (UK)",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4612329005",
-   "locations": [
-    "United Kingdom"
-   ],
-   "type": "fulltime",
-   "category": "",
-   "degrees": [],
-   "sponsorship": "",
-   "posted": "2025-10-17",
-   "description": "PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the country they reside in. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-e",
-   "source": "greenhouse",
-   "focus": "research",
-   "score": 15,
-   "reason": "Keyword match: research, researcher, generative ai, alignment.",
    "ranked_by": "keywords",
    "first_seen": "2026-09-25"
   },
@@ -8150,31 +7879,6 @@
    "reason": "Keyword match: phd.",
    "ranked_by": "keywords",
    "first_seen": "2026-11-17"
-  },
-  {
-   "id": "s-c189aa66-c9c",
-   "company": "Zensar",
-   "title": "Graduate Software Engineer - AI Platform Development",
-   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153873",
-   "locations": [
-    "San Jose, CA",
-    "Ann Arbor, MI"
-   ],
-   "type": "fulltime",
-   "category": "Software",
-   "degrees": [
-    "Bachelor's",
-    "Master's"
-   ],
-   "sponsorship": "Other",
-   "posted": "2026-11-11",
-   "description": "",
-   "source": "simplify",
-   "focus": "engineering",
-   "score": 13,
-   "reason": "Keyword match: ai, software engineer.",
-   "ranked_by": "keywords",
-   "first_seen": "2026-11-12"
   },
   {
    "id": "s-d9e469da-03c",
@@ -8820,12 +8524,12 @@
    "first_seen": "2026-11-12"
   },
   {
-   "id": "gh-stripe-8194285",
+   "id": "gh-stripe-8194283",
    "company": "Stripe",
    "title": "PhD Data Scientist, Intern",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+   "url": "https://stripe.com/jobs/search?gh_jid=8194283",
    "locations": [
-    "Toronto"
+    "New York, Seattle, South San Francisco HQ"
    ],
    "type": "internship",
    "category": "",
@@ -8838,7 +8542,7 @@
    "score": 12,
    "reason": "Keyword match: phd, machine learning, data science.",
    "ranked_by": "keywords",
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-23"
   },
   {
    "id": "gh-pinterest-8138097",
@@ -9557,6 +9261,303 @@
    "reason": "Keyword match: agent, ai, software engineer, backend.",
    "ranked_by": "keywords",
    "first_seen": "2026-11-22"
+  },
+  {
+   "id": "lv-palantir-2458ba08-de7",
+   "company": "Palantir",
+   "title": "Software Engineer, New Grad",
+   "url": "https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e",
+   "locations": [
+    "Singapore, Singapore"
+   ],
+   "type": "fulltime",
+   "category": "Dev",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2024-09-24",
+   "description": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nSoftware Engineers at Palantir build software at scale to transform how organizations around the world use data. In this role, you’ll have an opportunity to grow more quickly than you ever envisioned as you contribute high-quality code directly to Palantir Gotham, Palantir Apollo, or ",
+   "source": "lever",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: research scientist, research, software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "gh-databricks-6866534002",
+   "company": "Databricks",
+   "title": "Software Engineering Intern (2027 Start) - Amsterdam",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
+   "locations": [
+    "Amsterdam, Netherlands"
+   ],
+   "type": "internship",
+   "category": "",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2023-09-01",
+   "description": "P-969 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We're hiring across all of our teams, including full stack, backend, infrastructure, sys",
+   "source": "greenhouse",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: agent, ai, software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "gh-databricks-6866531002",
+   "company": "Databricks",
+   "title": "Software Engineering Intern (2027 Start) - Berlin",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
+   "locations": [
+    "Berlin, Germany"
+   ],
+   "type": "internship",
+   "category": "",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2023-09-01",
+   "description": "P-968 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We're hiring across all of our teams, including full stack, backend, infrastructure, sys",
+   "source": "greenhouse",
+   "focus": "engineering",
+   "score": 12,
+   "reason": "Keyword match: agent, ai, software engineer, backend.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "s-cd84e473-a1e",
+   "company": "DreamWorks Animation",
+   "title": "Media Tech: Data – AI & Machine Learning Intern",
+   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767",
+   "locations": [
+    "NYC"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [],
+   "sponsorship": "Other",
+   "posted": "2026-11-09",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 11,
+   "reason": "Keyword match: machine learning, ai.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "gh-pinterest-8138039",
+   "company": "Pinterest",
+   "title": "Software Engineering Intern 2027 (Toronto)",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
+   "locations": [
+    "Toronto, ON, CA"
+   ],
+   "type": "internship",
+   "category": "",
+   "degrees": [],
+   "sponsorship": "",
+   "posted": "2026-10-01",
+   "description": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a featur",
+   "source": "greenhouse",
+   "focus": "engineering",
+   "score": 11,
+   "reason": "Keyword match: artificial intelligence, ai, software engineer, software development.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "s-555a5129-471",
+   "company": "Waymo",
+   "title": "Human Behavior Analytics Intern - Safety Research",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [],
+   "sponsorship": "Other",
+   "posted": "2026-09-14",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 11,
+   "reason": "Keyword match: research, safety.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "s-7d033b9a-bd8",
+   "company": "Navy Federal",
+   "title": "Security Workflow Engineer Intern",
+   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382",
+   "locations": [
+    "Vienna, VA"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD",
+    "Associate's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-09-09",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 11,
+   "reason": "Keyword match: security. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "s-a5b1e709-3c4",
+   "company": "Playfly Sports",
+   "title": "Research & Insights Intern",
+   "url": "https://www.playfly.com/careers?gh_jid=4486378009",
+   "locations": [
+    "NYC"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-23",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 10,
+   "reason": "Keyword match: research.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "s-08abb7cd-e95",
+   "company": "Enterprise Holdings",
+   "title": "Data Scientist 1",
+   "url": "https://us-erac.icims.com/jobs/595973/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "type": "fulltime",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-23",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "s-0e3c923c-bec",
+   "company": "Gusto",
+   "title": "Economics Research Intern",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8400148",
+   "locations": [
+    "SF"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-20",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 10,
+   "reason": "Keyword match: research.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "s-5f7a3d6d-bab",
+   "company": "SAS",
+   "title": "Quantum Research & Development Intern",
+   "url": "https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Cary, NC"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Master's"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-20",
+   "description": "",
+   "source": "simplify",
+   "focus": "research",
+   "score": 10,
+   "reason": "Keyword match: research.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "s-af072e1c-254",
+   "company": "Southern Farm Bureau Life Insurance",
+   "title": "Data Analytics Intern",
+   "url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf",
+   "locations": [
+    "Jackson, MS"
+   ],
+   "type": "internship",
+   "category": "AI/ML/Data",
+   "degrees": [
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-20",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "s-7621fa9b-ec2",
+   "company": "NVIDIA",
+   "title": "Technical Marketing Engineer Intern - Digital Biology and Scientific Computing",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "type": "internship",
+   "category": "Software",
+   "degrees": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "sponsorship": "Other",
+   "posted": "2026-11-20",
+   "description": "",
+   "source": "simplify",
+   "focus": "engineering",
+   "score": 10,
+   "reason": "Broad match on role type. PhD listed as eligible.",
+   "ranked_by": "keywords",
+   "first_seen": "2026-11-23"
   }
  ]
 }
